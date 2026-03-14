@@ -77,9 +77,9 @@ export default function FlashcardDeck({ deck, onBack, onStartQuiz }: FlashcardDe
         {/* Flashcard */}
         <div
           onClick={() => setIsFlipped(!isFlipped)}
-          className="flashcard cursor-pointer mb-6"
+          className={`flashcard cursor-pointer mb-6 ${isFlipped ? 'flipped' : ''}`}
         >
-          <div className={`flashcard-inner relative h-64 ${isFlipped ? 'flipped' : ''}`}>
+          <div className="flashcard-inner relative h-64">
             {/* Front */}
             <div className="flashcard-front absolute inset-0 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-2xl flex items-center justify-center p-8 text-white shadow-lg">
               <div className="text-center">
