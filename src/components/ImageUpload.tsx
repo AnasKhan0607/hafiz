@@ -3,8 +3,8 @@
 import { useState, useRef } from 'react'
 import { FlashCard } from '@/types'
 
-// Netlify Functions API URL - update this after deploying hafiz-api to Netlify
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://hafiz-api.netlify.app'
+// Netlify Functions API URL
+const API_URL = 'https://hafiz-anas.netlify.app'
 
 interface ImageUploadProps {
   onCardsExtracted: (cards: FlashCard[], lessonName: string) => void
