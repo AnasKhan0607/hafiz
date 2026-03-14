@@ -1,0 +1,147 @@
+'use client'
+
+import { useState } from 'react'
+import Header from '@/components/Header'
+import ImageUpload from '@/components/ImageUpload'
+import FlashcardDeck from '@/components/FlashcardDeck'
+import QuizMode from '@/components/QuizMode'
+import DeckList from '@/components/DeckList'
+import { Deck, FlashCard } from '@/types'
+
+type View = 'home' | 'upload' | 'deck' | 'quiz'
+
+export default function Home() {
+  const [view, setView] = useState<View>('home')
+  const [decks, setDecks] = useState<Deck[]>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('hafiz-decks')
+      return saved ? JSON.parse(saved) : []
+    }
+    return []
+  })
+  const [currentDeck, setCurrentDeck] = useState<Deck | null>(null)
+  const [quizDirection, setQuizDirection] = useState<'en-ar' | 'ar-en'>('en-ar')
+
+  const saveDecks = (newDecks: Deck[]) => {
+    setDecks(newDecks)
+    localStorage.setItem('hafiz-decks', JSON.stringify(newDecks))
+  }
+
+  const handleCardsExtracted = (cards: FlashCard[], lessonName: string) => {
+    const newDeck: Deck = {
+      id: Date.now().toString(),
+      name: lessonName,
+      cards,
+      createdAt: new Date().toISOString(),
+    }
+    saveDecks([...decks, newDeck])
+    setCurrentDeck(newDeck)
+    setView('deck')
+  }
+
+  const handleDeleteDeck = (deckId: string) => {
+    saveDecks(decks.filter(d => d.id !== deckId))
+  }
+
+  const handleStartQuiz = (deck: Deck, direction: 'en-ar' | 'ar-en') => {
+    setCurrentDeck(deck)
+    setQuizDirection(direction)
+    setView('quiz')
+  }
+
+  return (
+    <main className="min-h-screen">
+      <Header onNavigate={setView} currentView={view} />
+      
+      <div className="container mx-auto px-4 py-8">
+        {view === 'home' && (
+          <div className="max-w-4xl mx-auto">
+            {/* Hero Section */}
+            <div className="text-center mb-12">
+              <h1 className="text-5xl font-bold text-emerald-800 mb-4">
+                <span className="arabic">حافظ</span>
+              </h1>
+              <p className="text-2xl text-emerald-700 mb-2">Hafiz</p>
+              <p className="text-gray-600 text-lg">
+                Turn Arabic vocabulary screenshots into interactive flashcards
+              </p>
+            </div>
+
+            {/* Quick Actions */}
+            <div className="grid md:grid-cols-2 gap-6 mb-12">
+              <button
+                onClick={() => setView('upload')}
+                className="btn-islamic flex items-center justify-center gap-3 py-6 text-lg"
+              >
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+                Upload Vocabulary Screenshot
+              </button>
+              
+              {decks.length > 0 && (
+                <button
+                  onClick={() => setView('deck')}
+                  className="btn-gold flex items-center justify-center gap-3 py-6 text-lg"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                  </svg>
+                  View My Decks ({decks.length})
+                </button>
+              )}
+            </div>
+
+            {/* Deck List Preview */}
+            {decks.length > 0 && (
+              <DeckList 
+                decks={decks} 
+                onSelect={(deck) => { setCurrentDeck(deck); setView('deck'); }}
+                onDelete={handleDeleteDeck}
+                onStartQuiz={handleStartQuiz}
+              />
+            )}
+
+            {/* Empty State */}
+            {decks.length === 0 && (
+              <div className="text-center py-12 bg-white/50 rounded-2xl border-2 border-dashed border-emerald-200">
+                <div className="text-6xl mb-4">📚</div>
+                <h3 className="text-xl font-semibold text-emerald-800 mb-2">No flashcard decks yet</h3>
+                <p className="text-gray-600 mb-4">Upload a screenshot of Arabic vocabulary to get started</p>
+              </div>
+            )}
+          </div>
+        )}
+
+        {view === 'upload' && (
+          <ImageUpload 
+            onCardsExtracted={handleCardsExtracted}
+            onBack={() => setView('home')}
+          />
+        )}
+
+        {view === 'deck' && currentDeck && (
+          <FlashcardDeck 
+            deck={currentDeck}
+            onBack={() => setView('home')}
+            onStartQuiz={(direction) => handleStartQuiz(currentDeck, direction)}
+          />
+        )}
+
+        {view === 'quiz' && currentDeck && (
+          <QuizMode 
+            deck={currentDeck}
+            direction={quizDirection}
+            onBack={() => setView('deck')}
+          />
+        )}
+      </div>
+
+      {/* Footer */}
+      <footer className="text-center py-8 text-emerald-700">
+        <p className="arabic text-2xl mb-2">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+        <p className="text-sm text-gray-500">Built with 💚 to help learn the language of the Quran</p>
+      </footer>
+    </main>
+  )
+}
