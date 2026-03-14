@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import Header from '@/components/Header'
 import ImageUpload from '@/components/ImageUpload'
 import FlashcardDeck from '@/components/FlashcardDeck'
@@ -21,6 +21,8 @@ export default function Home() {
   })
   const [currentDeck, setCurrentDeck] = useState<Deck | null>(null)
   const [quizDirection, setQuizDirection] = useState<'en-ar' | 'ar-en'>('en-ar')
+  const [importMessage, setImportMessage] = useState<string | null>(null)
+  const importInputRef = useRef<HTMLInputElement>(null)
 
   const saveDecks = (newDecks: Deck[]) => {
     setDecks(newDecks)
@@ -49,6 +51,81 @@ export default function Home() {
     setView('quiz')
   }
 
+  // Export all decks as JSON
+  const handleExportAll = () => {
+    const data = JSON.stringify(decks, null, 2)
+    const blob = new Blob([data], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = `hafiz-decks-${new Date().toISOString().split('T')[0]}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  // Export single deck as JSON
+  const handleExportDeck = (deck: Deck) => {
+    const data = JSON.stringify(deck, null, 2)
+    const blob = new Blob([data], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = `hafiz-${deck.name.replace(/\s+/g, '-').toLowerCase()}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  // Import decks from JSON
+  const handleImport = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+
+    const reader = new FileReader()
+    reader.onload = (event) => {
+      try {
+        const data = JSON.parse(event.target?.result as string)
+        
+        // Check if it's a single deck or array of decks
+        if (Array.isArray(data)) {
+          // Multiple decks
+          const validDecks = data.filter((d: Deck) => d.name && d.cards && Array.isArray(d.cards))
+          if (validDecks.length === 0) {
+            setImportMessage('❌ No valid decks found in file')
+            return
+          }
+          // Add new IDs to avoid conflicts
+          const newDecks = validDecks.map((d: Deck) => ({
+            ...d,
+            id: `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+          }))
+          saveDecks([...decks, ...newDecks])
+          setImportMessage(`✅ Imported ${newDecks.length} deck(s)`)
+        } else if (data.name && data.cards) {
+          // Single deck
+          const newDeck = {
+            ...data,
+            id: `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+          }
+          saveDecks([...decks, newDeck])
+          setImportMessage(`✅ Imported "${data.name}"`)
+        } else {
+          setImportMessage('❌ Invalid file format')
+        }
+      } catch (err) {
+        setImportMessage('❌ Failed to parse file')
+      }
+      
+      // Clear message after 3 seconds
+      setTimeout(() => setImportMessage(null), 3000)
+    }
+    reader.readAsText(file)
+    
+    // Reset input
+    if (importInputRef.current) {
+      importInputRef.current.value = ''
+    }
+  }
+
   return (
     <main className="min-h-screen">
       <Header onNavigate={setView} currentView={view} />
@@ -68,7 +145,7 @@ export default function Home() {
             </div>
 
             {/* Quick Actions */}
-            <div className="grid md:grid-cols-2 gap-6 mb-12">
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
               <button
                 onClick={() => setView('upload')}
                 className="btn-islamic flex items-center justify-center gap-3 py-6 text-lg"
@@ -76,7 +153,7 @@ export default function Home() {
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
                 </svg>
-                Upload Vocabulary Screenshot
+                Upload Vocabulary
               </button>
               
               {decks.length > 0 && (
@@ -92,6 +169,47 @@ export default function Home() {
               )}
             </div>
 
+            {/* Import/Export Section */}
+            <div className="flex flex-wrap justify-center gap-4 mb-8">
+              <button
+                onClick={() => importInputRef.current?.click()}
+                className="flex items-center gap-2 px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-lg text-gray-700 transition-colors"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12" />
+                </svg>
+                Import Decks
+              </button>
+              <input
+                ref={importInputRef}
+                type="file"
+                accept=".json"
+                onChange={handleImport}
+                className="hidden"
+              />
+              
+              {decks.length > 0 && (
+                <button
+                  onClick={handleExportAll}
+                  className="flex items-center gap-2 px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-lg text-gray-700 transition-colors"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                  Export All Decks
+                </button>
+              )}
+            </div>
+
+            {/* Import Message */}
+            {importMessage && (
+              <div className={`text-center mb-6 p-3 rounded-lg ${
+                importMessage.startsWith('✅') ? 'bg-emerald-100 text-emerald-700' : 'bg-red-100 text-red-700'
+              }`}>
+                {importMessage}
+              </div>
+            )}
+
             {/* Deck List Preview */}
             {decks.length > 0 && (
               <DeckList 
@@ -99,6 +217,7 @@ export default function Home() {
                 onSelect={(deck) => { setCurrentDeck(deck); setView('deck'); }}
                 onDelete={handleDeleteDeck}
                 onStartQuiz={handleStartQuiz}
+                onExport={handleExportDeck}
               />
             )}
 
@@ -107,7 +226,8 @@ export default function Home() {
               <div className="text-center py-12 bg-white/50 rounded-2xl border-2 border-dashed border-emerald-200">
                 <div className="text-6xl mb-4">📚</div>
                 <h3 className="text-xl font-semibold text-emerald-800 mb-2">No flashcard decks yet</h3>
-                <p className="text-gray-600 mb-4">Upload a screenshot of Arabic vocabulary to get started</p>
+                <p className="text-gray-600 mb-4">Upload a screenshot or PDF of Arabic vocabulary to get started</p>
+                <p className="text-gray-500 text-sm">Or import a deck shared by someone else</p>
               </div>
             )}
           </div>
