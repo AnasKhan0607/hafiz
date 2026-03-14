@@ -1,14 +1,18 @@
+# Functions-only deploy - skip Next.js detection
 [build]
-  # Don't build frontend - that's on GitHub Pages
-  command = "echo 'Functions only'"
+  command = "mkdir -p out && echo '<h1>Hafiz API</h1><p>Functions only. Frontend at anaskhan0607.github.io/hafiz</p>' > out/index.html"
+  publish = "out"
   functions = "netlify/functions"
-  publish = "public"
+
+# Skip framework detection
+[build.environment]
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
 
 [functions]
   node_bundler = "esbuild"
 
 [[headers]]
-  for = "/.netlify/functions/*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Headers = "Content-Type"
