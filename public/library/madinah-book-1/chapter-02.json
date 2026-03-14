@@ -1,0 +1,15 @@
+{
+  "id": "madinah-1-02",
+  "name": "Madinah Book 1 - Lesson 2",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-02-01", "arabic": "مَا...؟", "english": "What...?"},
+    {"id": "1-02-02", "arabic": "أَذٰلِكَ...؟", "english": "Is that...?"},
+    {"id": "1-02-03", "arabic": "حَجَرٌ", "english": "Stone"},
+    {"id": "1-02-04", "arabic": "إِمَامٌ", "english": "Leader"},
+    {"id": "1-02-05", "arabic": "لَبَنٌ", "english": "Milk"},
+    {"id": "1-02-06", "arabic": "سُكَّرٌ", "english": "Sugar"},
+    {"id": "1-02-07", "arabic": "ذٰلِكَ", "english": "That"},
+    {"id": "1-02-08", "arabic": "مَا ذٰلِكَ؟", "english": "What is that?"}
+  ]
+}

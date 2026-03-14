@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": "madinah-book-1",
+      "name": "Madinah Arabic - Book 1",
+      "description": "Beginner vocabulary from the famous Madinah Arabic Course",
+      "chapters": 23,
+      "totalCards": 650,
+      "source": "Madinah Islamic University"
+    }
+  ]
+}

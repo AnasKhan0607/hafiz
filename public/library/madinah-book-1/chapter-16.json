@@ -1,0 +1,26 @@
+{
+  "id": "madinah-1-16",
+  "name": "Madinah Book 1 - Lesson 16",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-16-01", "arabic": "بِلْجِيكَا", "english": "Belgium"},
+    {"id": "1-16-02", "arabic": "سُرُرٌ", "english": "Beds"},
+    {"id": "1-16-03", "arabic": "بُيُوتٌ", "english": "Houses"},
+    {"id": "1-16-04", "arabic": "دَفَاتِرُ", "english": "Notebooks"},
+    {"id": "1-16-05", "arabic": "دُرُوسٌ", "english": "Lessons"},
+    {"id": "1-16-06", "arabic": "مَكَاتِبُ", "english": "Desks"},
+    {"id": "1-16-07", "arabic": "أَبْوَابٌ", "english": "Doors"},
+    {"id": "1-16-08", "arabic": "فُنْدُقٌ", "english": "Hotel"},
+    {"id": "1-16-09", "arabic": "أَنْهَارٌ", "english": "Rivers"},
+    {"id": "1-16-10", "arabic": "فَنَادِقُ", "english": "Hotels"},
+    {"id": "1-16-11", "arabic": "كِلَابٌ", "english": "Dogs"},
+    {"id": "1-16-12", "arabic": "سَاعَاتٌ", "english": "Watches"},
+    {"id": "1-16-13", "arabic": "بِحَارٌ", "english": "Seas"},
+    {"id": "1-16-14", "arabic": "سَيَّارَاتٌ", "english": "Cars"},
+    {"id": "1-16-15", "arabic": "بَحْرٌ", "english": "Sea"},
+    {"id": "1-16-16", "arabic": "طَائِرَةٌ", "english": "Airplane"},
+    {"id": "1-16-17", "arabic": "دَرَّاجَاتٌ", "english": "Bikes"},
+    {"id": "1-16-18", "arabic": "طَائِرَاتٌ", "english": "Airplanes"},
+    {"id": "1-16-19", "arabic": "حُمُرٌ/حَمِيرُ", "english": "Donkeys"}
+  ]
+}

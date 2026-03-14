@@ -1,0 +1,22 @@
+{
+  "id": "madinah-1-08",
+  "name": "Madinah Book 1 - Lesson 8",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-08-01", "arabic": "خَلْفَ", "english": "Behind"},
+    {"id": "1-08-02", "arabic": "فَرَنْسَا", "english": "France"},
+    {"id": "1-08-03", "arabic": "أَمَامَ", "english": "In front of"},
+    {"id": "1-08-04", "arabic": "الْآنَ", "english": "Now/Just now"},
+    {"id": "1-08-05", "arabic": "أَمْرِيكَا", "english": "America"},
+    {"id": "1-08-06", "arabic": "عَبْدُ اللهِ", "english": "Abdullah"},
+    {"id": "1-08-07", "arabic": "سِكِّينٌ", "english": "Knife"},
+    {"id": "1-08-08", "arabic": "عِيسَى", "english": "Eesa"},
+    {"id": "1-08-09", "arabic": "إِنْكَلْتَرَا", "english": "England"},
+    {"id": "1-08-10", "arabic": "مُوسَى", "english": "Musa"},
+    {"id": "1-08-11", "arabic": "مُسْتَشْفَى", "english": "Hospital"},
+    {"id": "1-08-12", "arabic": "سَبُّورَةٌ", "english": "White/Black board"},
+    {"id": "1-08-13", "arabic": "سْوِيسَرَا", "english": "Switzerland"},
+    {"id": "1-08-14", "arabic": "مِحْرَابٌ", "english": "Niche"},
+    {"id": "1-08-15", "arabic": "أَلْمَانِيَا", "english": "Germany"}
+  ]
+}

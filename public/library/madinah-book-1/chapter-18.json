@@ -1,0 +1,28 @@
+{
+  "id": "madinah-1-18",
+  "name": "Madinah Book 1 - Lesson 18",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-18-01", "arabic": "عِيدُ الْفِطْرِ", "english": "Eid ul Fitr"},
+    {"id": "1-18-02", "arabic": "عَجَلَةٌ", "english": "Wheel"},
+    {"id": "1-18-03", "arabic": "عِيدُ الْأَضْحَى", "english": "Eid ul Adha"},
+    {"id": "1-18-04", "arabic": "عِيدٌ", "english": "Festival/Celebration"},
+    {"id": "1-18-05", "arabic": "هٰذَانِ", "english": "This is (dual, m)"},
+    {"id": "1-18-06", "arabic": "سَنَةٌ", "english": "Year"},
+    {"id": "1-18-07", "arabic": "هَاتَانِ", "english": "This is (dual, f)"},
+    {"id": "1-18-08", "arabic": "نَافِذَةٌ", "english": "Window"},
+    {"id": "1-18-09", "arabic": "هُمَا", "english": "They (dual, m/f)"},
+    {"id": "1-18-10", "arabic": "مِسْطَرَةٌ", "english": "Ruler"},
+    {"id": "1-18-11", "arabic": "كَمْ", "english": "How many/much"},
+    {"id": "1-18-12", "arabic": "حَيٌّ", "english": "Area"},
+    {"id": "1-18-13", "arabic": "أَخَوَانِ", "english": "2 brothers"},
+    {"id": "1-18-14", "arabic": "أَحْيَاءٌ", "english": "Areas"},
+    {"id": "1-18-15", "arabic": "رِيَالٌ", "english": "Riyal"},
+    {"id": "1-18-16", "arabic": "عَجَلَاتٌ", "english": "Wheels"},
+    {"id": "1-18-17", "arabic": "مَتْجَرٌ", "english": "Business"},
+    {"id": "1-18-18", "arabic": "رِيَالَاتٌ", "english": "Riyaals"},
+    {"id": "1-18-19", "arabic": "رَكْعَةٌ", "english": "Rakah"},
+    {"id": "1-18-20", "arabic": "مَسَاطِرُ", "english": "Rulers"},
+    {"id": "1-18-21", "arabic": "رَكَعَاتٌ", "english": "Rakahs"}
+  ]
+}

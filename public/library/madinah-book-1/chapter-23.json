@@ -1,0 +1,11 @@
+{
+  "id": "madinah-1-23",
+  "name": "Madinah Book 1 - Lesson 23",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-23-01", "arabic": "كَعْبَةٌ", "english": "Kabah"},
+    {"id": "1-23-02", "arabic": "وَاشِنْطُنُ", "english": "Washington"},
+    {"id": "1-23-03", "arabic": "لُوِيسُ", "english": "Lewis"},
+    {"id": "1-23-04", "arabic": "هَاتِ", "english": "Bring (command)"}
+  ]
+}

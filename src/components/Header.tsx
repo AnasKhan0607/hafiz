@@ -1,7 +1,7 @@
 'use client'
 
 interface HeaderProps {
-  onNavigate: (view: 'home' | 'upload' | 'deck' | 'quiz') => void
+  onNavigate: (view: 'home' | 'upload' | 'deck' | 'quiz' | 'library') => void
   currentView: string
 }
 
@@ -23,10 +23,10 @@ export default function Header({ onNavigate, currentView }: HeaderProps) {
             </div>
           </button>
           
-          <nav className="flex items-center gap-4">
+          <nav className="flex items-center gap-2 md:gap-4">
             <button
               onClick={() => onNavigate('home')}
-              className={`px-4 py-2 rounded-lg transition-colors ${
+              className={`px-3 md:px-4 py-2 rounded-lg transition-colors text-sm md:text-base ${
                 currentView === 'home' 
                   ? 'bg-emerald-700' 
                   : 'hover:bg-emerald-700/50'
@@ -35,8 +35,18 @@ export default function Header({ onNavigate, currentView }: HeaderProps) {
               Home
             </button>
             <button
+              onClick={() => onNavigate('library')}
+              className={`px-3 md:px-4 py-2 rounded-lg transition-colors text-sm md:text-base ${
+                currentView === 'library' 
+                  ? 'bg-emerald-700' 
+                  : 'hover:bg-emerald-700/50'
+              }`}
+            >
+              📚 Library
+            </button>
+            <button
               onClick={() => onNavigate('upload')}
-              className={`px-4 py-2 rounded-lg transition-colors ${
+              className={`px-3 md:px-4 py-2 rounded-lg transition-colors text-sm md:text-base ${
                 currentView === 'upload' 
                   ? 'bg-emerald-700' 
                   : 'hover:bg-emerald-700/50'

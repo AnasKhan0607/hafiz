@@ -1,0 +1,21 @@
+{
+  "id": "madinah-1-17",
+  "name": "Madinah Book 1 - Lesson 17",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-17-01", "arabic": "مَفْتُوحَةٌ", "english": "Open (f)"},
+    {"id": "1-17-02", "arabic": "شَارِعٌ", "english": "Street"},
+    {"id": "1-17-03", "arabic": "لُغَةٌ", "english": "Language"},
+    {"id": "1-17-04", "arabic": "مِنْدِيلٌ", "english": "Handkerchief"},
+    {"id": "1-17-05", "arabic": "لُغَاتٌ", "english": "Languages"},
+    {"id": "1-17-06", "arabic": "مَنَادِيلُ", "english": "Handkerchiefs"},
+    {"id": "1-17-07", "arabic": "كَثِيرَةٌ", "english": "Many (f)"},
+    {"id": "1-17-08", "arabic": "شَرِكَةٌ", "english": "Firm/Company"},
+    {"id": "1-17-09", "arabic": "مَكْتَبَةٌ", "english": "Library"},
+    {"id": "1-17-10", "arabic": "شَرِكَاتٌ", "english": "Firms/Companies"},
+    {"id": "1-17-11", "arabic": "مَكْسُورَةٌ", "english": "Broken (f)"},
+    {"id": "1-17-12", "arabic": "قُمْصَانٌ", "english": "Shirts"},
+    {"id": "1-17-13", "arabic": "رَخِيصَةٌ", "english": "Cheap (f)"},
+    {"id": "1-17-14", "arabic": "مُدِيرُ الشَّرِكَةِ", "english": "Director of company"}
+  ]
+}

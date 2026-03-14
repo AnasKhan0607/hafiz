@@ -1,0 +1,27 @@
+{
+  "id": "madinah-1-05",
+  "name": "Madinah Book 1 - Lesson 5",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-05-01", "arabic": "فَيْصَلٌ", "english": "Faisal"},
+    {"id": "1-05-02", "arabic": "يَا", "english": "O (calling)"},
+    {"id": "1-05-03", "arabic": "مَسْعُودٌ", "english": "Masood"},
+    {"id": "1-05-04", "arabic": "هُنَاكَ", "english": "There"},
+    {"id": "1-05-05", "arabic": "وَزِيرٌ", "english": "Minister"},
+    {"id": "1-05-06", "arabic": "هُنَا", "english": "Here"},
+    {"id": "1-05-07", "arabic": "أُسْتَاذٌ", "english": "Teacher/Professor"},
+    {"id": "1-05-08", "arabic": "حَقِيبَةٌ", "english": "Bag"},
+    {"id": "1-05-09", "arabic": "سَيَّارَةٌ", "english": "Car"},
+    {"id": "1-05-10", "arabic": "تَحْتَ", "english": "Under/Beneath"},
+    {"id": "1-05-11", "arabic": "ابْنٌ", "english": "Son"},
+    {"id": "1-05-12", "arabic": "بِنْتٌ", "english": "Girl/Daughter"},
+    {"id": "1-05-13", "arabic": "اللهُ", "english": "Allah"},
+    {"id": "1-05-14", "arabic": "عَمٌّ", "english": "Paternal uncle"},
+    {"id": "1-05-15", "arabic": "اسْمٌ", "english": "Name"},
+    {"id": "1-05-16", "arabic": "مُغْلَقٌ", "english": "Closed"},
+    {"id": "1-05-17", "arabic": "الْعِرَاقُ", "english": "Iraq"},
+    {"id": "1-05-18", "arabic": "خَالٌ", "english": "Maternal uncle"},
+    {"id": "1-05-19", "arabic": "مُنَوَّرَةٌ", "english": "Illuminated"},
+    {"id": "1-05-20", "arabic": "شَارِعٌ", "english": "Street"}
+  ]
+}

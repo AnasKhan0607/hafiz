@@ -1,0 +1,22 @@
+{
+  "id": "madinah-1-15",
+  "name": "Madinah Book 1 - Lesson 15",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-15-01", "arabic": "قَبْلَ", "english": "Before"},
+    {"id": "1-15-02", "arabic": "أَنْتُنَّ", "english": "You (pl.f)"},
+    {"id": "1-15-03", "arabic": "بَعْدَ", "english": "After"},
+    {"id": "1-15-04", "arabic": "ـكُنَّ", "english": "Your (attached pronoun, pl.f)"},
+    {"id": "1-15-05", "arabic": "كَيْفَ", "english": "How"},
+    {"id": "1-15-06", "arabic": "ذَهَبَتْ", "english": "She went"},
+    {"id": "1-15-07", "arabic": "مَتَى", "english": "When"},
+    {"id": "1-15-08", "arabic": "ذَهَبْنَ", "english": "They went (f.pl)"},
+    {"id": "1-15-09", "arabic": "أَذَانٌ", "english": "Adhan"},
+    {"id": "1-15-10", "arabic": "اخْتِبَارٌ", "english": "Examination"},
+    {"id": "1-15-11", "arabic": "صَلَاةٌ", "english": "Prayer"},
+    {"id": "1-15-12", "arabic": "الْقَاهِرَةُ", "english": "Cairo"},
+    {"id": "1-15-13", "arabic": "رَجَعَ", "english": "He returned"},
+    {"id": "1-15-14", "arabic": "أُسْبُوعٌ", "english": "Week"},
+    {"id": "1-15-15", "arabic": "دَرْسٌ", "english": "Lesson"}
+  ]
+}

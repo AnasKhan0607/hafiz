@@ -1,0 +1,21 @@
+{
+  "id": "madinah-1-11",
+  "name": "Madinah Book 1 - Lesson 11",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-11-01", "arabic": "أَمَامَ", "english": "In front"},
+    {"id": "1-11-02", "arabic": "سُعَادُ", "english": "Su'aad"},
+    {"id": "1-11-03", "arabic": "فِيهَا", "english": "In it (f)"},
+    {"id": "1-11-04", "arabic": "أُحِبُّ", "english": "I love"},
+    {"id": "1-11-05", "arabic": "فِيهِ", "english": "In it (m)"},
+    {"id": "1-11-06", "arabic": "أَحَدٌ", "english": "One"},
+    {"id": "1-11-07", "arabic": "تَحْتَ", "english": "Under"},
+    {"id": "1-11-08", "arabic": "نَبِيٌّ", "english": "Prophet"},
+    {"id": "1-11-09", "arabic": "مَفْتُوحَةٌ", "english": "Open (f)"},
+    {"id": "1-11-10", "arabic": "تُحِبُّ", "english": "You love"},
+    {"id": "1-11-11", "arabic": "عِنْدِي", "english": "I have"},
+    {"id": "1-11-12", "arabic": "وَاحِدٌ", "english": "One"},
+    {"id": "1-11-13", "arabic": "خَرَجَتْ", "english": "She left"},
+    {"id": "1-11-14", "arabic": "سَعْدٌ", "english": "Sa'd"}
+  ]
+}

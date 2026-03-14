@@ -1,0 +1,18 @@
+{
+  "id": "madinah-1-07",
+  "name": "Madinah Book 1 - Lesson 7",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {"id": "1-07-01", "arabic": "تِلْكَ", "english": "That is (f)"},
+    {"id": "1-07-02", "arabic": "قَصِيرَةٌ", "english": "Short (f)"},
+    {"id": "1-07-03", "arabic": "مُمَرِّضَةٌ", "english": "Nurse"},
+    {"id": "1-07-04", "arabic": "بَطَّةٌ", "english": "Duck"},
+    {"id": "1-07-05", "arabic": "طَوِيلَةٌ", "english": "Tall (f)"},
+    {"id": "1-07-06", "arabic": "بَيْضَةٌ", "english": "Egg"},
+    {"id": "1-07-07", "arabic": "دَجَاجَةٌ", "english": "Chicken"},
+    {"id": "1-07-08", "arabic": "مُؤَذِّنٌ", "english": "Caller to prayer"},
+    {"id": "1-07-09", "arabic": "نَاقَةٌ", "english": "She camel"},
+    {"id": "1-07-10", "arabic": "مُدَرِّسَةٌ", "english": "Teacher (f)"},
+    {"id": "1-07-11", "arabic": "حَدِيقَةٌ", "english": "Garden"}
+  ]
+}
