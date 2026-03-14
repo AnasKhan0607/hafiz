@@ -1,0 +1,437 @@
+{
+  "id": "madinah-2-10",
+  "name": "Madinah Book 2 - Lesson 10",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-10-01",
+      "arabic": "ﻞﹶ ﻌﻓﹶ",
+      "english": "He did (a-a)"
+    },
+    {
+      "id": "2-10-02",
+      "arabic": "ﻞﹸ ﻌﻔﹾﻳ",
+      "english": "He is doing"
+    },
+    {
+      "id": "2-10-03",
+      "arabic": "ﻝﹶ ﺰﻧ",
+      "english": "He descended (a-\ni)"
+    },
+    {
+      "id": "2-10-04",
+      "arabic": "ﻝﹸ ﺰﹺﻨﻳ",
+      "english": "He is descending"
+    },
+    {
+      "id": "2-10-05",
+      "arabic": "ﺐ ﻫ ﺫﹶ",
+      "english": "He went (a-a)"
+    },
+    {
+      "id": "2-10-06",
+      "arabic": "ﺐ ﻫ ﺬﹾ ﻳ",
+      "english": "He is going"
+    },
+    {
+      "id": "2-10-07",
+      "arabic": "ﺢ ﺘﻓﹶ",
+      "english": "He opened (a-a)"
+    },
+    {
+      "id": "2-10-08",
+      "arabic": "ﺢ ﺘﻔﹾﻳ",
+      "english": "He opens"
+    },
+    {
+      "id": "2-10-09",
+      "arabic": "ﺃﹶﺮﻗﹶ",
+      "english": "He read (a-a)"
+    },
+    {
+      "id": "2-10-10",
+      "arabic": "ﺃﹸﺮﻘﹾﻳ",
+      "english": "He reads"
+    },
+    {
+      "id": "2-10-11",
+      "arabic": "ﻢ ﻬﹺ ﻓﹶ",
+      "english": "He understood\n(i-a)"
+    },
+    {
+      "id": "2-10-12",
+      "arabic": "ﻢ ﻬ ﻔﹾﻳ",
+      "english": "He understands"
+    },
+    {
+      "id": "2-10-13",
+      "arabic": "ﻆﹶ ﻔﺣ",
+      "english": "He memorised (i-\na)"
+    },
+    {
+      "id": "2-10-14",
+      "arabic": "ﻆﹸ ﻔﹶﺤ ﻳ",
+      "english": "He is memorising"
+    },
+    {
+      "id": "2-10-15",
+      "arabic": "ﺐ ﻛ ﺭ",
+      "english": "He mounted (i-a)"
+    },
+    {
+      "id": "2-10-16",
+      "arabic": "ﺐ ﻛﹶ ﺮﻳ",
+      "english": "He is mounting"
+    },
+    {
+      "id": "2-10-17",
+      "arabic": "ﺐ ﺘﻛﹶ",
+      "english": "He wrote (a-u)"
+    },
+    {
+      "id": "2-10-18",
+      "arabic": "ﺐ ﺘﻜﹾ ﻳ",
+      "english": "He is writing"
+    },
+    {
+      "id": "2-10-19",
+      "arabic": "ﻝﹶ ﺄﹶﺳ",
+      "english": "He asked"
+    },
+    {
+      "id": "2-10-20",
+      "arabic": "ﻝﹸ ﺄﹶﺴ ﻳ",
+      "english": "He is asking"
+    },
+    {
+      "id": "2-10-21",
+      "arabic": "ﻞﹶ ﺧ ﺩ",
+      "english": "He entered (a-u)"
+    },
+    {
+      "id": "2-10-22",
+      "arabic": "ﻞﹸ ﺧ ﺪ ﻳ",
+      "english": "He is entering"
+    },
+    {
+      "id": "2-10-23",
+      "arabic": "ﻊ ﻛﹶ ﺭ",
+      "english": "He bowed (a-a)"
+    },
+    {
+      "id": "2-10-24",
+      "arabic": "ﻊ ﻛﹶ ﺮﻳ",
+      "english": "He is bowing"
+    },
+    {
+      "id": "2-10-25",
+      "arabic": "ﺝ ﺮﺧ",
+      "english": "He left (a-u)"
+    },
+    {
+      "id": "2-10-26",
+      "arabic": "ﺝ ﺮﺨ ﻳ",
+      "english": "He is leaving"
+    },
+    {
+      "id": "2-10-27",
+      "arabic": "ﻊ ﻓﹶﺭ",
+      "english": "He raised (a-a)"
+    },
+    {
+      "id": "2-10-28",
+      "arabic": "ﻊ ﻓﹶﺮﻳ",
+      "english": "He is raising"
+    },
+    {
+      "id": "2-10-29",
+      "arabic": "ﺐ ﻌﻟﹶ",
+      "english": "He played (i-a)"
+    },
+    {
+      "id": "2-10-30",
+      "arabic": "ﺐ ﻌﻠﹾﻳ",
+      "english": "He is playing"
+    },
+    {
+      "id": "2-10-31",
+      "arabic": "ﻊ ﺟ ﺭ",
+      "english": "He returned (a-i)"
+    },
+    {
+      "id": "2-10-32",
+      "arabic": "ﻊ ﺟﹺ ﺮﻳ",
+      "english": "He is returning"
+    },
+    {
+      "id": "2-10-33",
+      "arabic": "ﻊ ﻤ ﺳ",
+      "english": "He listened (i-a)"
+    },
+    {
+      "id": "2-10-34",
+      "arabic": "ﻊ ﻤ ﺴ ﻳ",
+      "english": "He is listening"
+    },
+    {
+      "id": "2-10-35",
+      "arabic": "ﺪ ﺠ ﺳ",
+      "english": "He prostrated\n(a-u)"
+    },
+    {
+      "id": "2-10-36",
+      "arabic": "ﺪ ﺠ ﺴ ﻳ",
+      "english": "He is prostrating"
+    },
+    {
+      "id": "2-10-37",
+      "arabic": "ﺏ ﺮﺿ",
+      "english": "He hit (i-a)"
+    },
+    {
+      "id": "2-10-38",
+      "arabic": "ﺏ ﺮﹺﻀ ﻳ",
+      "english": "He is hitting"
+    },
+    {
+      "id": "2-10-39",
+      "arabic": "ﻞﹶ ﺴ ﻏﹶ",
+      "english": "He washed (a-i)"
+    },
+    {
+      "id": "2-10-40",
+      "arabic": "ﻞﹸ ﺴِ ﻐﻳ",
+      "english": "He washes"
+    },
+    {
+      "id": "2-10-41",
+      "arabic": "ﻞﹶ ﻤ ﻋ",
+      "english": "He worked"
+    },
+    {
+      "id": "2-10-42",
+      "arabic": "ﻞﹸ ﻤ ﻌﻳ",
+      "english": "He is working"
+    },
+    {
+      "id": "2-10-43",
+      "arabic": "ﻞﹶ ﺘﻗﹶ",
+      "english": "He killed"
+    },
+    {
+      "id": "2-10-44",
+      "arabic": "ﻞﹸ ﺘﻘﹾﻳ",
+      "english": "Hi is killing"
+    },
+    {
+      "id": "2-10-45",
+      "arabic": "ﺏ ﺮﹺﺷ",
+      "english": "He drank (i-a)"
+    },
+    {
+      "id": "2-10-46",
+      "arabic": "ﺏ ﺮﺸ ﻳ",
+      "english": "He drinking (a-i)"
+    },
+    {
+      "id": "2-10-47",
+      "arabic": "ﺲ ﻠﹶﺟ",
+      "english": "Hi sat (a-i)"
+    },
+    {
+      "id": "2-10-48",
+      "arabic": "ﺲ ﻠﺠ ﻳ",
+      "english": "He is sitting"
+    },
+    {
+      "id": "2-10-49",
+      "arabic": "ﻞﹶ ﻛﹶ ﺃﹶ",
+      "english": "He ate (a-u)"
+    },
+    {
+      "id": "2-10-50",
+      "arabic": "ﻞﹸُ ﻛﹸ ﺄﹾﻳ",
+      "english": "He is eating"
+    },
+    {
+      "id": "2-10-51",
+      "arabic": "ﺐ ﺘﻜﹾ ﻣ",
+      "english": "Office"
+    },
+    {
+      "id": "2-10-52",
+      "arabic": "ﻊ ﻨﺼ ﻣ",
+      "english": "Factory"
+    },
+    {
+      "id": "2-10-53",
+      "arabic": "ﺍﹰﺮﻜﱢ ﺒﻣ",
+      "english": "Early (m)"
+    },
+    {
+      "id": "2-10-54",
+      "arabic": "ﺓﹰﺮﻜﱢ ﺒﻣ",
+      "english": "Early (f)"
+    },
+    {
+      "id": "2-10-55",
+      "arabic": "ﺍﹰﺮﺧ ﺄﹶﺘﻣ",
+      "english": "Late (m)"
+    },
+    {
+      "id": "2-10-56",
+      "arabic": "ﺓﹰﺮﺧ ﺄﹶﺘﻣ",
+      "english": "Late (f)"
+    },
+    {
+      "id": "2-10-57",
+      "arabic": "ﻯﺮﺧ ﺃﹸ ﺓﹰﺮﻣ",
+      "english": "Once again"
+    },
+    {
+      "id": "2-10-58",
+      "arabic": "ﺎﹰﻤﺋﺍﺩ",
+      "english": "Always"
+    },
+    {
+      "id": "2-10-59",
+      "arabic": "ﺎﹰﻧﺎﻴﺣ ﺃﹶ",
+      "english": "Sometimes"
+    },
+    {
+      "id": "2-10-60",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺪ ﺣ ﺍﻭ",
+      "english": "Twenty one (m)"
+    },
+    {
+      "id": "2-10-61",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﻥ ﺎﻨﺛﹾﺇﹺ",
+      "english": "Twenty two (m)"
+    },
+    {
+      "id": "2-10-62",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﺛﹶﻼﺛﹶ",
+      "english": "Twenty three (m)"
+    },
+    {
+      "id": "2-10-63",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﻌﺑﺭ ﺃﹶ",
+      "english": "Twenty four (m)"
+    },
+    {
+      "id": "2-10-64",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﺴ ﻤ ﺧ",
+      "english": "Twenty five (m)"
+    },
+    {
+      "id": "2-10-65",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﺘﺳ",
+      "english": "Twenty six (m)"
+    },
+    {
+      "id": "2-10-66",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﻌﺒﺳ",
+      "english": "Twenty seven (m)"
+    },
+    {
+      "id": "2-10-67",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﻴﻧﹺﺎﻤ ﺛﹶ",
+      "english": "Twenty eight (m)"
+    },
+    {
+      "id": "2-10-68",
+      "arabic": "ﻥﹶ ﻭ ﺮﺸ ﻋ ﻭ ﺔﹲﻌﺴ ﺗ",
+      "english": "Twenty nine (m)"
+    },
+    {
+      "id": "2-10-69",
+      "arabic": "ﻥﹶ ﻮ ﺛﹸﻼﹶ ﺛﹶ",
+      "english": "Thirty"
+    },
+    {
+      "id": "2-10-70",
+      "arabic": "ﺮﺘﻤ ﻴﺘﻨﺳ",
+      "english": "Centimetre"
+    },
+    {
+      "id": "2-10-71",
+      "arabic": "ﺕ ﺍﺮﺘﻤ ﻴﺘﻨﺳ",
+      "english": "Centimetres"
+    },
+    {
+      "id": "2-10-72",
+      "arabic": "ﺮﺘﻣ",
+      "english": "Meter"
+    },
+    {
+      "id": "2-10-73",
+      "arabic": "ﺭﺎﺘﻣﺃﹶ",
+      "english": "Meters"
+    },
+    {
+      "id": "2-10-74",
+      "arabic": "ﺽ ﺮﻋ",
+      "english": "Width"
+    },
+    {
+      "id": "2-10-75",
+      "arabic": "ﺔﹲﻓﹶﺎﺴ ﻣ",
+      "english": "Distance"
+    },
+    {
+      "id": "2-10-76",
+      "arabic": "ﺮﺘﻣﻮ ﻠﹸﻴﻛ",
+      "english": "Kilometre"
+    },
+    {
+      "id": "2-10-77",
+      "arabic": "ﺕ ﺍﺮﺘﻣﻮ ﻠﹸﻴﻛ",
+      "english": "Kilometres"
+    },
+    {
+      "id": "2-10-78",
+      "arabic": "ﻝﹲ ﻮ ﻃﹸ",
+      "english": "Length"
+    },
+    {
+      "id": "2-10-79",
+      "arabic": "ﻦ ﻴﺑ",
+      "english": "Between"
+    },
+    {
+      "id": "2-10-80",
+      "arabic": "ﺎﻤ ﻬ ﻨﻴﺑ",
+      "english": "Between them"
+    },
+    {
+      "id": "2-10-81",
+      "arabic": "ﺡ ﺎﺒﺻ",
+      "english": "Morning"
+    },
+    {
+      "id": "2-10-82",
+      "arabic": "ﺎﹰﻌﺑﺭ ﻻﱠ ﺇﹺ ﺔﹸﻌﺳ ﺎﺘﻟﺍ",
+      "english": "Quarter to nine"
+    },
+    {
+      "id": "2-10-83",
+      "arabic": "ﻞﹲ ﻣﺎﻋ",
+      "english": "Labourer"
+    },
+    {
+      "id": "2-10-84",
+      "arabic": "ﻝﹲ ﺎﻤ ﻋ",
+      "english": "Labourers"
+    },
+    {
+      "id": "2-10-85",
+      "arabic": "ﻲ ﺿ ﺎﻤ ﻟﹾﺍ",
+      "english": "Past tense"
+    },
+    {
+      "id": "2-10-86",
+      "arabic": "ﻉ ﺭﹺﺎﹶﻀﻤ ﻟﹾﺍ",
+      "english": "Present tense"
+    }
+  ]
+}

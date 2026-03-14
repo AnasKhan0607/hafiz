@@ -1,0 +1,97 @@
+{
+  "id": "madinah-2-04",
+  "name": "Madinah Book 2 - Lesson 4",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-04-01",
+      "arabic": "ﺐ ﻫ ﺫﹶ",
+      "english": "He went"
+    },
+    {
+      "id": "2-04-02",
+      "arabic": "ﺍﻮ ﺒﻫ ﺫﹶ",
+      "english": "They went\n(m,pl)"
+    },
+    {
+      "id": "2-04-03",
+      "arabic": "ﺖ ﺒﻫ ﺫﹶ",
+      "english": "She went"
+    },
+    {
+      "id": "2-04-04",
+      "arabic": "ﻦ ﺒﻫ ﺫﹶ",
+      "english": "They went (f,pl)"
+    },
+    {
+      "id": "2-04-05",
+      "arabic": "ﺖ ﺒﻫ ﺫﹶ",
+      "english": "You went\n(m,sing.)"
+    },
+    {
+      "id": "2-04-06",
+      "arabic": "ﻢ ﺘﺒﻫ ﺫﹶ",
+      "english": "You went (m,pl)"
+    },
+    {
+      "id": "2-04-07",
+      "arabic": "ﺖ ﺒﻫ ﺫﹶ",
+      "english": "You went\n(f,sing.)"
+    },
+    {
+      "id": "2-04-08",
+      "arabic": "ﻦ ﺘﺒﻫ ﺫﹶ",
+      "english": "You went (f,pl)"
+    },
+    {
+      "id": "2-04-09",
+      "arabic": "ﺖ ﺒﻫ ﺫﹶ",
+      "english": "I went"
+    },
+    {
+      "id": "2-04-10",
+      "arabic": "ﺎﹶﻨﺒﻫ ﺫﹶ",
+      "english": "We went"
+    },
+    {
+      "id": "2-04-11",
+      "arabic": "ﻥﱠ ﻷَ",
+      "english": "Because"
+    },
+    {
+      "id": "2-04-12",
+      "arabic": "ﻪﻧﻷَ",
+      "english": "Because he"
+    },
+    {
+      "id": "2-04-13",
+      "arabic": "ﺎﻬ ﻧﻷَ",
+      "english": "Because she"
+    },
+    {
+      "id": "2-04-14",
+      "arabic": "ﻚ ﻧﻷَ",
+      "english": "Because you\n(m,sing.)"
+    },
+    {
+      "id": "2-04-15",
+      "arabic": "ﻲ ﻨﹺﻧﻷَ",
+      "english": "Because I"
+    },
+    {
+      "id": "2-04-16",
+      "arabic": "ﻊ ﺟ ﺭ",
+      "english": "He returned"
+    },
+    {
+      "id": "2-04-17",
+      "arabic": "ﻚ ﺑﹺ ﺱ ﺄﹾﺑﻻ",
+      "english": "May no harm\ncome to you"
+    },
+    {
+      "id": "2-04-18",
+      "arabic": "ﺮﺘﺘﺴ ﻣ ﺮﻴﻤ ﺿ",
+      "english": "Hidden pronoun"
+    }
+  ]
+}

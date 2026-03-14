@@ -1,0 +1,237 @@
+{
+  "id": "madinah-2-17",
+  "name": "Madinah Book 2 - Lesson 17",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-17-01",
+      "arabic": "ﺢ ﻤ ﺳ",
+      "english": "He permitted"
+    },
+    {
+      "id": "2-17-02",
+      "arabic": "ﺢ ﻤ ﺴ ﻳ",
+      "english": "He permits"
+    },
+    {
+      "id": "2-17-03",
+      "arabic": "ﻦ ﻜﹶ ﻣﺃﹶ",
+      "english": "He was able\n(possible)"
+    },
+    {
+      "id": "2-17-04",
+      "arabic": "ﻦ ﻜ ﻤ ﻳ",
+      "english": "He is able"
+    },
+    {
+      "id": "2-17-05",
+      "arabic": "ﺃﹶﺪ ﺑ",
+      "english": "He commenced"
+    },
+    {
+      "id": "2-17-06",
+      "arabic": "ﺃﹸُﺪ ﺒﻳ",
+      "english": "He is commencing"
+    },
+    {
+      "id": "2-17-07",
+      "arabic": "ﻖ ﺼ ﺑ",
+      "english": "He spat"
+    },
+    {
+      "id": "2-17-08",
+      "arabic": "ﻖ ﺼ ﺒﻳ",
+      "english": "He spits"
+    },
+    {
+      "id": "2-17-09",
+      "arabic": "ﺭﺍﺯ",
+      "english": "He visited"
+    },
+    {
+      "id": "2-17-10",
+      "arabic": "ﺭﻭ ﺰﻳ",
+      "english": "He visits"
+    },
+    {
+      "id": "2-17-11",
+      "arabic": "ﻲ ﻘﺑ",
+      "english": "He remained"
+    },
+    {
+      "id": "2-17-12",
+      "arabic": "ﻰﻘﹶﺒﻳ",
+      "english": "He remains"
+    },
+    {
+      "id": "2-17-13",
+      "arabic": "ﺎﺟ ﺭ",
+      "english": "He requested"
+    },
+    {
+      "id": "2-17-14",
+      "arabic": "ﻮ ﺟ ﺮﻳ",
+      "english": "He is requesting"
+    },
+    {
+      "id": "2-17-15",
+      "arabic": "ﻮ ﺟ ﺭ ﺃﹶ",
+      "english": "I request"
+    },
+    {
+      "id": "2-17-16",
+      "arabic": "ﻱﺮﹺﺘﺸ ﻳ",
+      "english": "He bought"
+    },
+    {
+      "id": "2-17-17",
+      "arabic": "ﻦ ﻜﹸ ﺳ ﺃﹶ",
+      "english": "I live"
+    },
+    {
+      "id": "2-17-18",
+      "arabic": "ﻥﹲ ﻼﹶ ﻋ ﺇﹺ",
+      "english": "Public\nannouncement"
+    },
+    {
+      "id": "2-17-19",
+      "arabic": "ﱃﺎﻌﺗ ﷲﺍ",
+      "english": "Allah the most\nhigh and exalted"
+    },
+    {
+      "id": "2-17-20",
+      "arabic": "ﻒ ﻳﺮﹺﺸ ﻟﺍ ﻱ ﻮ ﺒﻨﻟﺍ",
+      "english": "The noble prophet"
+    },
+    {
+      "id": "2-17-21",
+      "arabic": "ﺝ ﻼﹶ ﻋ",
+      "english": "Treatment"
+    },
+    {
+      "id": "2-17-22",
+      "arabic": "ﺀٌﺍﻮ ﻫ",
+      "english": "Air"
+    },
+    {
+      "id": "2-17-23",
+      "arabic": "ﺮﺼ ﻣ",
+      "english": "Egypt"
+    },
+    {
+      "id": "2-17-24",
+      "arabic": "ﻞﹲ ﻫ ﺃﹶ",
+      "english": "People"
+    },
+    {
+      "id": "2-17-25",
+      "arabic": "ﺀٌﺎﺸ ﻋ",
+      "english": "Supper"
+    },
+    {
+      "id": "2-17-26",
+      "arabic": "ﻞﹸ ﺒﹺﻘﹾﻤ ﻟﹾﺍ ﻡﺎﻌﻟﹾﺍ",
+      "english": "Next year"
+    },
+    {
+      "id": "2-17-27",
+      "arabic": "ﺀٌﻭ ﺪ ﻫ",
+      "english": "Calm, quiet"
+    },
+    {
+      "id": "2-17-28",
+      "arabic": "ﺀٍﻭ ﺪ ﻬ ﺑﹺ",
+      "english": "Calmly, quietly"
+    },
+    {
+      "id": "2-17-29",
+      "arabic": "ﻑ ﺮﻇﹶ",
+      "english": "Envelope"
+    },
+    {
+      "id": "2-17-30",
+      "arabic": "ﻑ ﻭ ﺮﻇﹸ",
+      "english": "Envelopes"
+    },
+    {
+      "id": "2-17-31",
+      "arabic": "ﺔﹲﻠﹶﻄﹾ ﻋ",
+      "english": "Holiday"
+    },
+    {
+      "id": "2-17-32",
+      "arabic": "ﻊ ﻴﺑﹺﺮﻟﺍ",
+      "english": "Spring"
+    },
+    {
+      "id": "2-17-33",
+      "arabic": "ﻒ ﻴﺼ ﻟﺍ",
+      "english": "Summer"
+    },
+    {
+      "id": "2-17-34",
+      "arabic": "ﻒ ﻳﺮﹺﺨ ﻟﹾﺍ",
+      "english": "Autumn"
+    },
+    {
+      "id": "2-17-35",
+      "arabic": "ﺀُﺎﺘﺸ ﻟﺍ",
+      "english": "Winter"
+    },
+    {
+      "id": "2-17-36",
+      "arabic": "ﺐ ﺒﺳ",
+      "english": "Reason"
+    },
+    {
+      "id": "2-17-37",
+      "arabic": "ﺔﹸﻴﻧﹺﺎﻤ ﻟﹾﺍ ﺔﹸﻐﻠﱡﻟﺍ",
+      "english": "German language"
+    },
+    {
+      "id": "2-17-38",
+      "arabic": "ﺔﹸﻳﺰﹺﻴﻠﹶﻜﹶ ﻧﻹِ ﺍ ﺔﹸﻐﻠﱡﻟﺍ",
+      "english": "English language"
+    },
+    {
+      "id": "2-17-39",
+      "arabic": "ﺔﹸﻴﻧﹺﺎﻤ ﻟﹾﺍ ﺔﹸﻐﻠﱡﻟﺍ",
+      "english": "German language"
+    },
+    {
+      "id": "2-17-40",
+      "arabic": "ﺀٌﺎﺿ ﻮ ﺿ",
+      "english": "Noise"
+    },
+    {
+      "id": "2-17-41",
+      "arabic": "ﺏ ﺎﺑﺫﹸ",
+      "english": "Fly"
+    },
+    {
+      "id": "2-17-42",
+      "arabic": "ﻥﹲ ﺎﺑﺫﹸ",
+      "english": "Flies"
+    },
+    {
+      "id": "2-17-43",
+      "arabic": "ﻥﹶ ﻭ ﺮﺧ ﺁ",
+      "english": "Other (m,pl)"
+    },
+    {
+      "id": "2-17-44",
+      "arabic": "ﺭﺎﺘﺨ ﻣ",
+      "english": "Choosing"
+    },
+    {
+      "id": "2-17-45",
+      "arabic": "ﻞﹸ ﻴﻠﻌﺘﻟﺍ",
+      "english": "Justification\nmotivation"
+    },
+    {
+      "id": "2-17-46",
+      "arabic": "ﺬﹸ ﻨﻣ",
+      "english": "Since"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "madinah-2-11",
+  "name": "Madinah Book 2 - Lesson 11",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-11-01",
+      "arabic": "ﺱ ﺭﺩ",
+      "english": "He studied"
+    },
+    {
+      "id": "2-11-02",
+      "arabic": "ﺱ ﺭﺪ ﻳ",
+      "english": "He is studying"
+    },
+    {
+      "id": "2-11-03",
+      "arabic": "ﻝﹶ ﺰﻧ",
+      "english": "He descended"
+    },
+    {
+      "id": "2-11-04",
+      "arabic": "ﻝﹸ ﺰﹺﻨﻳ",
+      "english": "He is descending"
+    },
+    {
+      "id": "2-11-05",
+      "arabic": "ﻑ ﺮﻋ",
+      "english": "He knew"
+    },
+    {
+      "id": "2-11-06",
+      "arabic": "ﻑ ﺮﹺﻌﻳ",
+      "english": "He knows"
+    },
+    {
+      "id": "2-11-07",
+      "arabic": "ﻦ ﻜﹶ ﺳ",
+      "english": "He lived"
+    },
+    {
+      "id": "2-11-08",
+      "arabic": "ﻦ ﻜﹸ ﺴ ﻳ",
+      "english": "He lives"
+    },
+    {
+      "id": "2-11-09",
+      "arabic": "ﺮﻈﹶ ﻧ",
+      "english": "He looked"
+    },
+    {
+      "id": "2-11-10",
+      "arabic": "ﺮﻈﹸ ﻨﻳ",
+      "english": "He is looking"
+    },
+    {
+      "id": "2-11-11",
+      "arabic": "ﺕ ﺎﻣ",
+      "english": "He died"
+    },
+    {
+      "id": "2-11-12",
+      "arabic": "ﺕ ﻮ ﻤ ﻳ",
+      "english": "He is dying"
+    },
+    {
+      "id": "2-11-13",
+      "arabic": "ﺮﻜﹶ ﺷ",
+      "english": "He thanked"
+    },
+    {
+      "id": "2-11-14",
+      "arabic": "ﺮﻜﹸ ﺸ ﻳ",
+      "english": "He thanks"
+    },
+    {
+      "id": "2-11-15",
+      "arabic": "ﺪ ﻌﺻ",
+      "english": "He ascends"
+    },
+    {
+      "id": "2-11-16",
+      "arabic": "ﺪ ﻌﺼ ﻳ",
+      "english": "He is ascending"
+    },
+    {
+      "id": "2-11-17",
+      "arabic": "ﻦ ﻋ ﺚﹶ ﺤ ﺑ",
+      "english": "He searched for"
+    },
+    {
+      "id": "2-11-18",
+      "arabic": "ﻦ ﻋ ﺚﹸ ﺤ ﺒﻳ",
+      "english": "He searches for"
+    },
+    {
+      "id": "2-11-19",
+      "arabic": "ﻝﹲ ﻮ ﺧ ﺩ",
+      "english": "Entry"
+    },
+    {
+      "id": "2-11-20",
+      "arabic": "ﻉ ﻮ ﻛﹸ ﺭ",
+      "english": "Bowing"
+    },
+    {
+      "id": "2-11-21",
+      "arabic": "ﺩﻮ ﺠ ﺳ",
+      "english": "Prostration"
+    },
+    {
+      "id": "2-11-22",
+      "arabic": "ﺝ ﻭ ﺮﺧ",
+      "english": "Exiting"
+    },
+    {
+      "id": "2-11-23",
+      "arabic": "ﺱ ﻮ ﻠﹸﺟ",
+      "english": "Sitting"
+    },
+    {
+      "id": "2-11-24",
+      "arabic": "ﺩﻮ ﻌﺻ",
+      "english": "Ascending"
+    },
+    {
+      "id": "2-11-25",
+      "arabic": "ﻝﹲ ﻭ ﺰﻧ",
+      "english": "Descending"
+    },
+    {
+      "id": "2-11-26",
+      "arabic": "ﻉ ﻮ ﺟ ﺭ",
+      "english": "Returning"
+    },
+    {
+      "id": "2-11-27",
+      "arabic": "ﻉ ﻮ ﻨﻤ ﻣ",
+      "english": "Forbidden"
+    },
+    {
+      "id": "2-11-28",
+      "arabic": "ﻡﺩﺎﻗﹶ",
+      "english": "Next/coming"
+    },
+    {
+      "id": "2-11-29",
+      "arabic": "ﻕ ﻼﱠ ﺣ",
+      "english": "Barber"
+    },
+    {
+      "id": "2-11-30",
+      "arabic": "ﻥﹶ ﻮ ﻗﹸﻼﱠ ﺣ",
+      "english": "Barbers"
+    },
+    {
+      "id": "2-11-31",
+      "arabic": "ﺔﹲﻄﱠ ﺤ ﻣ",
+      "english": "Station"
+    },
+    {
+      "id": "2-11-32",
+      "arabic": "ﺕ ﺎﻄﱠ ﺤ ﻣ",
+      "english": "Stations"
+    },
+    {
+      "id": "2-11-33",
+      "arabic": "ﺐ ﻳﺮﹺﻗﹶ",
+      "english": "Relative"
+    },
+    {
+      "id": "2-11-34",
+      "arabic": "ﺀُﺎﺑﺮﹺﻗﹾﺃﹶ",
+      "english": "Relatives"
+    },
+    {
+      "id": "2-11-35",
+      "arabic": "ﺔﹲﻗﹶﺎﻄﹶ ﺑﹺ",
+      "english": "Visiting card"
+    },
+    {
+      "id": "2-11-36",
+      "arabic": "ﺕ ﺎﻗﹶﺎﻄﹶ ﺑﹺ",
+      "english": "Visiting cards"
+    },
+    {
+      "id": "2-11-37",
+      "arabic": "ﺔﹲﻟﹶﺎﺳ ﺭﹺ",
+      "english": "Letter"
+    },
+    {
+      "id": "2-11-38",
+      "arabic": "ﻞﹸ ﺋﺎﺳ ﺭ",
+      "english": "Letters"
+    },
+    {
+      "id": "2-11-39",
+      "arabic": "ﻞﹲ ﻴﺧ",
+      "english": "Horse"
+    },
+    {
+      "id": "2-11-40",
+      "arabic": "ﻝﹲ ﻮ ﻴﺧ",
+      "english": "Horses"
+    },
+    {
+      "id": "2-11-41",
+      "arabic": "ﻥﹲ ﺍﻮﻨﻋ",
+      "english": "Address"
+    },
+    {
+      "id": "2-11-42",
+      "arabic": "ﻦ ﻳﻭﹺ ﺎﻨﻋ",
+      "english": "Addresses"
+    },
+    {
+      "id": "2-11-43",
+      "arabic": "ﺏ ﻮ ﺛﹶ",
+      "english": "Garment"
+    },
+    {
+      "id": "2-11-44",
+      "arabic": "ﺏ ﺎﻴﺛ",
+      "english": "Garments"
+    },
+    {
+      "id": "2-11-45",
+      "arabic": "ﺀٌﻲ ﺷ",
+      "english": "Anything"
+    },
+    {
+      "id": "2-11-46",
+      "arabic": "ﺎﻣﺃﹶ",
+      "english": "As for"
+    },
+    {
+      "id": "2-11-47",
+      "arabic": "ﺎﹰﻌﺒﻃﹶ",
+      "english": "Of course"
+    },
+    {
+      "id": "2-11-48",
+      "arabic": "ﺔﹲﻨﺳ",
+      "english": "Year"
+    },
+    {
+      "id": "2-11-49",
+      "arabic": "ﺕ ﺍﻮ ﻨﺳ",
+      "english": "Years"
+    },
+    {
+      "id": "2-11-50",
+      "arabic": "ﺔﹲﻴﻟﺪ ﻴﺻ",
+      "english": "Pharmacy"
+    },
+    {
+      "id": "2-11-51",
+      "arabic": "ﻒ ﺻ ﻮ ﺘﺴ ﻣ",
+      "english": "Clinic"
+    },
+    {
+      "id": "2-11-52",
+      "arabic": "ﺔﹲﻟﹶﺎﺳ ﺭﹺ",
+      "english": "letter"
+    },
+    {
+      "id": "2-11-53",
+      "arabic": "ﺏﹺ ﺍﺩﻵﺍ ﺔﹸﻴﻠﱢﻛﹸُ",
+      "english": "Faculty of\nliterature"
+    },
+    {
+      "id": "2-11-54",
+      "arabic": "ﻡﹺﻮ ﻠﹸﻌﻟﹾﺍ ﺔﹸﻴﻠﱢﻛﹸُ",
+      "english": "Faculty of science"
+    },
+    {
+      "id": "2-11-55",
+      "arabic": "ﺓﺭﺎﺠ ﺘﻟﺍ ﺔﹸﻴﻠﱢﻛﹸُ",
+      "english": "Faculty of\ncommerce"
+    },
+    {
+      "id": "2-11-56",
+      "arabic": "ﺔﹸﻣﺩﺎﻘﹶﻟﹾﺍ ﺔﻄﱠ ﺤ ﻤ ﻟﹾﺍ",
+      "english": "The next\nstation/stop"
+    },
+    {
+      "id": "2-11-57",
+      "arabic": "ﷲِ ﺍ ﻥ ﺎﻣﺃﹶ ﻲ ﻓ",
+      "english": "In Allah’s\nprotection"
+    },
+    {
+      "id": "2-11-58",
+      "arabic": "ﻥﹸ ﺎﻤ ﻠﹾﺳ",
+      "english": "Salman"
+    },
+    {
+      "id": "2-11-59",
+      "arabic": "ﺍﺪ ﻏﹶ",
+      "english": "Tomorrow"
+    },
+    {
+      "id": "2-11-60",
+      "arabic": "ﺀٌﺎﺴ ﻣ",
+      "english": "Evening"
+    },
+    {
+      "id": "2-11-61",
+      "arabic": "ﺯﺭﺃﹶ",
+      "english": "Rice"
+    },
+    {
+      "id": "2-11-62",
+      "arabic": "ﺖ ﻴﺴِ ﻧ",
+      "english": "I forgot"
+    },
+    {
+      "id": "2-11-63",
+      "arabic": "ﻰﻤ ﻠﹾﺳ",
+      "english": "Salmaa"
+    },
+    {
+      "id": "2-11-64",
+      "arabic": "ﺔﹲﻴﺴِ ﻧﺮﻓﹶ",
+      "english": "French\n(language)"
+    },
+    {
+      "id": "2-11-65",
+      "arabic": "ﺀِﺎﻘﹶﻠﱢﻟﺍ ﱃﺇﹺ",
+      "english": "Until we meet\nagain"
+    },
+    {
+      "id": "2-11-66",
+      "arabic": "ﻝﹺ ﺎﺒﻘﹾﺘﺳ ﻹِ ﺍ ﻑ ﺮﺣ",
+      "english": "The particle of\nfuturity"
+    }
+  ]
+}

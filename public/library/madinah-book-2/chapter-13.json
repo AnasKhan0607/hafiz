@@ -1,0 +1,32 @@
+{
+  "id": "madinah-2-13",
+  "name": "Madinah Book 2 - Lesson 13",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-13-01",
+      "arabic": "ﺓﺮﺟ ﻷُ ﺍ ﺓﹸﺭﺎﻴﺳ",
+      "english": "Taxi"
+    },
+    {
+      "id": "2-13-02",
+      "arabic": "ﺮﻴﺧ ﺃﹶ",
+      "english": "Final/Last"
+    },
+    {
+      "id": "2-13-03",
+      "arabic": "ﺔﹲﻄﱠ ﺤ ﻣ",
+      "english": "Stop/station"
+    },
+    {
+      "id": "2-13-04",
+      "arabic": "ﻒ ﺻ",
+      "english": "Row"
+    },
+    {
+      "id": "2-13-05",
+      "arabic": "ﻑ ﻮ ﻔﹸﺻ",
+      "english": "Rows"
+    }
+  ]
+}

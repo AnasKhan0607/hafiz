@@ -1,0 +1,382 @@
+{
+  "id": "madinah-2-06",
+  "name": "Madinah Book 2 - Lesson 6",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-06-01",
+      "arabic": "ﺡ ﺮﹺﻓﹶ",
+      "english": "He was pleased"
+    },
+    {
+      "id": "2-06-02",
+      "arabic": "ﺖ ﺣ ﺮﹺﻓﹶ",
+      "english": "She was pleased"
+    },
+    {
+      "id": "2-06-03",
+      "arabic": "ﺍﻮ ﺣ ﺮﹺﻓﹶ",
+      "english": "They (m) were\npleased"
+    },
+    {
+      "id": "2-06-04",
+      "arabic": "ﻪﺘﻳﺃﹶﺭ",
+      "english": "I saw him"
+    },
+    {
+      "id": "2-06-05",
+      "arabic": "ﻢ ﻬ ﺘﻳﺃﹶﺭ",
+      "english": "I saw them (m,pl)"
+    },
+    {
+      "id": "2-06-06",
+      "arabic": "ﺎﻬ ﺘﻳﺃﹶﺭ",
+      "english": "I saw her (f)"
+    },
+    {
+      "id": "2-06-07",
+      "arabic": "ﻦ ﻬ ﺘﻳﺃﹶَﺭ",
+      "english": "I saw them (f,pl)"
+    },
+    {
+      "id": "2-06-08",
+      "arabic": "ﺃﹶﺮﻗﹶ",
+      "english": "He read"
+    },
+    {
+      "id": "2-06-09",
+      "arabic": "ﺀَﺎﺟ",
+      "english": "He came"
+    },
+    {
+      "id": "2-06-10",
+      "arabic": "ﺖ ﺋﹶﺎﺟ",
+      "english": "She came"
+    },
+    {
+      "id": "2-06-11",
+      "arabic": "ﻯﻮ ﻛﹶ",
+      "english": "He ironed"
+    },
+    {
+      "id": "2-06-12",
+      "arabic": "ﺕ ﻮ ﻛﹶ",
+      "english": "She ironed"
+    },
+    {
+      "id": "2-06-13",
+      "arabic": "ﺕ ﺎﻫ",
+      "english": "Give me (m.s)"
+    },
+    {
+      "id": "2-06-14",
+      "arabic": "ﺍﻮ ﺗﺎﻫ",
+      "english": "Give me (m.pl)"
+    },
+    {
+      "id": "2-06-15",
+      "arabic": "ﻲ ﺗﺎﻫ",
+      "english": "Give me (f.s)"
+    },
+    {
+      "id": "2-06-16",
+      "arabic": "ﻦ ﻴﺗﺎﻫ",
+      "english": "Give me (f.pl)"
+    },
+    {
+      "id": "2-06-17",
+      "arabic": "ﻦ ﻇﹸ ﺃﹶ",
+      "english": "I think"
+    },
+    {
+      "id": "2-06-18",
+      "arabic": "ﺬﹾ ﺧ",
+      "english": "Take"
+    },
+    {
+      "id": "2-06-19",
+      "arabic": "ﻥﹸ ﺎﻋ ﻮ ﺟ",
+      "english": "Hungry (m.sing.)"
+    },
+    {
+      "id": "2-06-20",
+      "arabic": "ﻰﻋ ﻮ ﺟ",
+      "english": "Hungry (f.sing.)"
+    },
+    {
+      "id": "2-06-21",
+      "arabic": "ﻉ ﺎﻴﺟﹺ",
+      "english": "Hungry (m+f.pl)"
+    },
+    {
+      "id": "2-06-22",
+      "arabic": "ﻥﹸ ﻼﺴ ﻛﹶ",
+      "english": "Lazy (m.sing.)"
+    },
+    {
+      "id": "2-06-23",
+      "arabic": "ﻰﻠﹶﺴ ﻛﹶ",
+      "english": "Lazy (f.sing.)"
+    },
+    {
+      "id": "2-06-24",
+      "arabic": "ﻰﻟﹶﺎﺴ ﻛﹸ",
+      "english": "Lazy (m+f.pl)"
+    },
+    {
+      "id": "2-06-25",
+      "arabic": "ﻥﹸ ﺎﺸ ﻄﹾ ﻋ",
+      "english": "Thirsty (m.sing.)"
+    },
+    {
+      "id": "2-06-26",
+      "arabic": "ﻰﺸ ﻄﹾ ﻋ",
+      "english": "Thirsty (f.sing.)"
+    },
+    {
+      "id": "2-06-27",
+      "arabic": "ﺵ ﺎﻄﹶ ﻋ",
+      "english": "Thirst (m+f.pl)"
+    },
+    {
+      "id": "2-06-28",
+      "arabic": "ﻥﹸ ﺎﻌﺒﺷ",
+      "english": "Full/satisfied\n(m.sing.)"
+    },
+    {
+      "id": "2-06-29",
+      "arabic": "ﻰﻌﺒﺷ",
+      "english": "Full satisfied\n(f.sing.)"
+    },
+    {
+      "id": "2-06-30",
+      "arabic": "ﻉ ﺎﺒﺷ",
+      "english": "Full/satisfied\n(m+f.pl)"
+    },
+    {
+      "id": "2-06-31",
+      "arabic": "ﻥﹸ ﺎﺒﻀ ﻏﹶ",
+      "english": "Angry (m.sing.)"
+    },
+    {
+      "id": "2-06-32",
+      "arabic": "ﻰﺒﻀ ﻏﹶ",
+      "english": "Angry (f.sing.)"
+    },
+    {
+      "id": "2-06-33",
+      "arabic": "ﺏ ﺎﻀ ﻏ",
+      "english": "Angry (m+f.pl)"
+    },
+    {
+      "id": "2-06-34",
+      "arabic": "ﺔﹲﻘﱠﺷ",
+      "english": "Flat"
+    },
+    {
+      "id": "2-06-35",
+      "arabic": "ﻖ ﻘﹶﺷ",
+      "english": "Flats"
+    },
+    {
+      "id": "2-06-36",
+      "arabic": "ﻪﻤ ﻟ",
+      "english": "Why"
+    },
+    {
+      "id": "2-06-37",
+      "arabic": "ﺐ ﻌﺘﻣ",
+      "english": "Tired (m.s)"
+    },
+    {
+      "id": "2-06-38",
+      "arabic": "ﻲ ﻨﺑ ﺎﻳ",
+      "english": "O my dear son"
+    },
+    {
+      "id": "2-06-39",
+      "arabic": "ﻱﺭﹺﺩﺃﹶ ﻻ",
+      "english": "I don’t know"
+    },
+    {
+      "id": "2-06-40",
+      "arabic": "ﺔﹲﻣﺩﺎﺧ",
+      "english": "Maid servant"
+    },
+    {
+      "id": "2-06-41",
+      "arabic": "ﻪﻘﹾﻔﻟﹾﺍ",
+      "english": "Fiqh"
+    },
+    {
+      "id": "2-06-42",
+      "arabic": "ﺔﹲﻌﻄﹾ ﻗ",
+      "english": "Piece"
+    },
+    {
+      "id": "2-06-43",
+      "arabic": "ﻲ ﺑﹺ",
+      "english": "With me"
+    },
+    {
+      "id": "2-06-44",
+      "arabic": "ﷲﺍ ﺀَﺎﺷ ﺎﻣ",
+      "english": "What Allah wills"
+    },
+    {
+      "id": "2-06-45",
+      "arabic": "ﻚﻟﺬﹶ ﻛﹶ",
+      "english": "Likewise"
+    },
+    {
+      "id": "2-06-46",
+      "arabic": "ﺔﹲﻳﺁ",
+      "english": "Ayah"
+    },
+    {
+      "id": "2-06-47",
+      "arabic": "ً ﺔﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﻯﺪﺣ ﺇﹺ",
+      "english": "Eleven students"
+    },
+    {
+      "id": "2-06-48",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﺎﺘﻨﺛﹾﺍ",
+      "english": "Twelve students"
+    },
+    {
+      "id": "2-06-49",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﺕ ﻼﹶ ﺛﹶ",
+      "english": "Thirteen students"
+    },
+    {
+      "id": "2-06-50",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﻊ ﺑﺭﺃﹶ",
+      "english": "Fourteen\nstudents"
+    },
+    {
+      "id": "2-06-51",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﺲ ﻤ ﺧ",
+      "english": "Fifteen students"
+    },
+    {
+      "id": "2-06-52",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﺖ ﺳ",
+      "english": "Sixteen students"
+    },
+    {
+      "id": "2-06-53",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﻊﺒﺳ",
+      "english": "Seventeen\nstudents"
+    },
+    {
+      "id": "2-06-54",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﻲ ﻧﹺﺎﻤﺛﹶ",
+      "english": "Eighteen students"
+    },
+    {
+      "id": "2-06-55",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﺓﹶﺮﺸ ﻋ ﻊﺴ ﺗ",
+      "english": "Nineteen\nstudents"
+    },
+    {
+      "id": "2-06-56",
+      "arabic": "ﺔﹰﺒﻟﺎﻃﹶ ﻥﹶ ﻭ ﺮﺸ ﻋ",
+      "english": "Twenty students"
+    },
+    {
+      "id": "2-06-57",
+      "arabic": "ﺓﹸﺮﻳﺮﹺﺑ",
+      "english": "Bareerah"
+    },
+    {
+      "id": "2-06-58",
+      "arabic": "ﺔﹲﻠﱠﺠ ﻣ",
+      "english": "Magazine"
+    },
+    {
+      "id": "2-06-59",
+      "arabic": "ﺕ ﻼﱠ ﺠ ﻣ",
+      "english": "Magazines"
+    },
+    {
+      "id": "2-06-60",
+      "arabic": "ﺐ ﻛ ﺍﺭ",
+      "english": "Passenger"
+    },
+    {
+      "id": "2-06-61",
+      "arabic": "ﺏ ﺎﻛﱠ ﺭ",
+      "english": "Passengers"
+    },
+    {
+      "id": "2-06-62",
+      "arabic": "ﻦ ﺳ",
+      "english": "Tooth/age"
+    },
+    {
+      "id": "2-06-63",
+      "arabic": "ﻥﹲ ﺎﻨﺳ ﺃﹶ",
+      "english": "Teeth/age (pl)"
+    },
+    {
+      "id": "2-06-64",
+      "arabic": "ﺓﹲﺭﻮ ﺳ",
+      "english": "Surah"
+    },
+    {
+      "id": "2-06-65",
+      "arabic": "ﺭﻮ ﺳ",
+      "english": "Surahs"
+    },
+    {
+      "id": "2-06-66",
+      "arabic": "ﺐ ﺋﺎﻏﹶ",
+      "english": "Absent (m)"
+    },
+    {
+      "id": "2-06-67",
+      "arabic": "ﺔﹲﺒﺋﺎﻏﹶ",
+      "english": "Absent (f)"
+    },
+    {
+      "id": "2-06-68",
+      "arabic": "ﺎﻤ ﻠﹾﻋ ﷲﺍ ﻙ ﺩﺍﺯ",
+      "english": "May Allah increase\nyour knowledge"
+    },
+    {
+      "id": "2-06-69",
+      "arabic": "ﺍﹰﺪﻴﺟ ﻪﺘﻤ ﻬﹺ ﻓﹶ",
+      "english": "I have understood\nit well"
+    },
+    {
+      "id": "2-06-70",
+      "arabic": "ﻚ ﺑﹺ ﺭﻭ ﺮﺴ ﻣ ﺎﻧﺃﹶ",
+      "english": "I am happy with\nyou"
+    },
+    {
+      "id": "2-06-71",
+      "arabic": "ﺕ ﺎﻤ ﻠﻛﹶ",
+      "english": "Words"
+    },
+    {
+      "id": "2-06-72",
+      "arabic": "ﻂﹾ ﻘﹶﻓﹶ",
+      "english": "Only"
+    },
+    {
+      "id": "2-06-73",
+      "arabic": "ﻒ ﺼ ﻧﹺ",
+      "english": "Half"
+    },
+    {
+      "id": "2-06-74",
+      "arabic": "ﻞﹸ ﺧ ﺪ ﺗ",
+      "english": "She enters"
+    },
+    {
+      "id": "2-06-75",
+      "arabic": "ﺭﺎﻄﹶ ﻣ",
+      "english": "Airport"
+    }
+  ]
+}

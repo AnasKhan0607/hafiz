@@ -1,0 +1,347 @@
+{
+  "id": "madinah-2-16",
+  "name": "Madinah Book 2 - Lesson 16",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-16-01",
+      "arabic": "ﺕ ﺩﺭﺃﹶ",
+      "english": "I wanted"
+    },
+    {
+      "id": "2-16-02",
+      "arabic": "ﺪ ﻳﺭﹺﺃﹸ",
+      "english": "I want"
+    },
+    {
+      "id": "2-16-03",
+      "arabic": "ﺩﺍﺭﺃﹶ",
+      "english": "He wanted"
+    },
+    {
+      "id": "2-16-04",
+      "arabic": "ﺪ ﻳﺮﹺﻳ",
+      "english": "He wants"
+    },
+    {
+      "id": "2-16-05",
+      "arabic": "ﺕ ﺩﺭﺃﹶ",
+      "english": "You wanted"
+    },
+    {
+      "id": "2-16-06",
+      "arabic": "ﺪ ﻳﺮﹺﺗ",
+      "english": "You want (m)"
+    },
+    {
+      "id": "2-16-07",
+      "arabic": "ﺕ ﺩ ﺭﺃﹶ",
+      "english": "You wanted"
+    },
+    {
+      "id": "2-16-08",
+      "arabic": "ﻦ ﻳﺪ ﻳﺮﹺﺗ",
+      "english": "You want (f)"
+    },
+    {
+      "id": "2-16-09",
+      "arabic": "ﻢ ﺗﺩﺭﺃﹶ",
+      "english": "You wanted (m,pl)"
+    },
+    {
+      "id": "2-16-10",
+      "arabic": "ﻥﹶ ﻭ ﺪ ﻳﺮﹺﺗ",
+      "english": "You want (m,pl)"
+    },
+    {
+      "id": "2-16-11",
+      "arabic": "ﻦ ﺗﺩﺭﺃﹶ",
+      "english": "You wanted (f,pl)"
+    },
+    {
+      "id": "2-16-12",
+      "arabic": "ﻥﹶ ﺩﺮﹺﺗ",
+      "english": "You need (want)\n(f,pl)"
+    },
+    {
+      "id": "2-16-13",
+      "arabic": "ﺪ ﻳﺮﹺﻧ",
+      "english": "We want"
+    },
+    {
+      "id": "2-16-14",
+      "arabic": "ﻯﺮﺘﺷ ﺍ",
+      "english": "He bought"
+    },
+    {
+      "id": "2-16-15",
+      "arabic": "ﻱ ﺮﹺﺘﺸ ﻳ",
+      "english": "He is buying"
+    },
+    {
+      "id": "2-16-16",
+      "arabic": "ﺮﺧ ﺁ",
+      "english": "Another (m)"
+    },
+    {
+      "id": "2-16-17",
+      "arabic": "ﻯﺮﺧ ﺃﹸ",
+      "english": "Another (f)"
+    },
+    {
+      "id": "2-16-18",
+      "arabic": "ﺔﹸﻴﻛ ﺮ ﺘﻟﺍ ﺔﹸﻐﻠﱡﻟﺍ",
+      "english": "Turkish language"
+    },
+    {
+      "id": "2-16-19",
+      "arabic": "ﺮﻤ ﺳ ﺃﹶ",
+      "english": "Brown (m)"
+    },
+    {
+      "id": "2-16-20",
+      "arabic": "ﺀُﺍﺮﻤ ﺳ",
+      "english": "Brown (f)"
+    },
+    {
+      "id": "2-16-21",
+      "arabic": "ﺀُﺍﺮﻤ ﺣ",
+      "english": "Red (f)"
+    },
+    {
+      "id": "2-16-22",
+      "arabic": "ﺀُﺍﺩﻮ ﺳ",
+      "english": "Black (f)"
+    },
+    {
+      "id": "2-16-23",
+      "arabic": "ﺀُﺎﻀ ﻴﺑ",
+      "english": "White (f)"
+    },
+    {
+      "id": "2-16-24",
+      "arabic": "ﺀُﺍﺮﻔﹾﺻ",
+      "english": "Yellow (f)"
+    },
+    {
+      "id": "2-16-25",
+      "arabic": "ﺀُﺍﺮﻀ ﺧ",
+      "english": "Green (f)"
+    },
+    {
+      "id": "2-16-26",
+      "arabic": "ﺀُﺎﻗﹶﺭ ﺯ",
+      "english": "Blue (f)"
+    },
+    {
+      "id": "2-16-27",
+      "arabic": "ﺀٌﻲﺷ",
+      "english": "Anything"
+    },
+    {
+      "id": "2-16-28",
+      "arabic": "ﺀُﺎﻴﺷ ﺃﹶ",
+      "english": "Anything (pl)"
+    },
+    {
+      "id": "2-16-29",
+      "arabic": "ﺐ ﺋﺎﻏﹶ",
+      "english": "Absent"
+    },
+    {
+      "id": "2-16-30",
+      "arabic": "ﻥﹶ ﻮ ﺒﺋﺎﻏﹶ",
+      "english": "Absent (pl)"
+    },
+    {
+      "id": "2-16-31",
+      "arabic": "ﻯﻮ ﻠﹾﺣ",
+      "english": "Sweetmeat"
+    },
+    {
+      "id": "2-16-32",
+      "arabic": "ﻯﻭ ﻼﹶ ﺣ",
+      "english": "Sweetmeats"
+    },
+    {
+      "id": "2-16-33",
+      "arabic": "ﻡﺩﺎﻘﹶﻟﹾﺍ ﻉ ﻮ ﺒﺳ ﻷُ ﺍ",
+      "english": "Last week"
+    },
+    {
+      "id": "2-16-34",
+      "arabic": "ﺔﹲﻳﺪ ﻠﹶﺑ",
+      "english": "Municipality"
+    },
+    {
+      "id": "2-16-35",
+      "arabic": "ﻒ ﻠﹶﻣ",
+      "english": "File"
+    },
+    {
+      "id": "2-16-36",
+      "arabic": "ﺮﻴﺷ ﺎﺒﻃﹶ",
+      "english": "Chalk"
+    },
+    {
+      "id": "2-16-37",
+      "arabic": "ﻒ ﺤ ﺼ ﻣ",
+      "english": "Copy of Quran"
+    },
+    {
+      "id": "2-16-38",
+      "arabic": "ﻒ ﺣ ﺎﺼ ﻣ",
+      "english": "Copies of Quran"
+    },
+    {
+      "id": "2-16-39",
+      "arabic": "ﻦ ﻴﺴ ﺤ ﻟﹾﺍ",
+      "english": "Hussain"
+    },
+    {
+      "id": "2-16-40",
+      "arabic": "ﺔﹸﺼ ﻔﹾﺣ",
+      "english": "Hafsah"
+    },
+    {
+      "id": "2-16-41",
+      "arabic": "ﺀُﺍﺩﻮ ﺳ",
+      "english": "Saudah"
+    },
+    {
+      "id": "2-16-42",
+      "arabic": "ﺮﻓﹶﺯ",
+      "english": "Zafar"
+    },
+    {
+      "id": "2-16-43",
+      "arabic": "ﺵ ﺎﻤ ﻗﹸ",
+      "english": "Cloth"
+    },
+    {
+      "id": "2-16-44",
+      "arabic": "ﺔﹲﺸ ﻤ ﻗﹾﺍﹶ",
+      "english": "Cloths"
+    },
+    {
+      "id": "2-16-45",
+      "arabic": "ﺝ ﺫﹶﻮ ﻤ ﻧ",
+      "english": "Sample"
+    },
+    {
+      "id": "2-16-46",
+      "arabic": "ﺝ ﺫﺎﻤ ﻧ",
+      "english": "Samples"
+    },
+    {
+      "id": "2-16-47",
+      "arabic": "ﺮﺒﺧ",
+      "english": "News"
+    },
+    {
+      "id": "2-16-48",
+      "arabic": "ﻒ ﺻ",
+      "english": "Row"
+    },
+    {
+      "id": "2-16-49",
+      "arabic": "ﻑ ﻮ ﻔﹸﺻ",
+      "english": "Rows"
+    },
+    {
+      "id": "2-16-50",
+      "arabic": "ﺏ ﺎﻏﹶ",
+      "english": "He was absent"
+    },
+    {
+      "id": "2-16-51",
+      "arabic": "ﺐ ﻴﻐﻳ",
+      "english": "He is absent"
+    },
+    {
+      "id": "2-16-52",
+      "arabic": "ﻭ ﺮﻤ ﻋ",
+      "english": "Amr"
+    },
+    {
+      "id": "2-16-53",
+      "arabic": "ﺔﻴﻣﺎﻬ ﻔﹾﺘﺳ ﻹِ ﺍ ﺎﻣ",
+      "english": "Ma of questioning"
+    },
+    {
+      "id": "2-16-54",
+      "arabic": "ﻞﹸ ﺣ ﺯ",
+      "english": "Saturn"
+    },
+    {
+      "id": "2-16-55",
+      "arabic": "ﺮﻤ ﺤ ﻟﹾﺍ ﺩﻮ ﻨﻬ ﻟﹾﺍ",
+      "english": "The red Indians"
+    },
+    {
+      "id": "2-16-56",
+      "arabic": "ﻱ ﺪ ﻨﻫ",
+      "english": "Indian"
+    },
+    {
+      "id": "2-16-57",
+      "arabic": "ﻱ ﺮﹺﺼ ﻣ",
+      "english": "Egyptian"
+    },
+    {
+      "id": "2-16-58",
+      "arabic": "ﻥﹶ ﻭ ﺮﻓﺎﻛﹶ",
+      "english": "disbelievers"
+    },
+    {
+      "id": "2-16-59",
+      "arabic": "ﻞﹸ ﺒﻫ",
+      "english": "Hubal (an idols\nname)"
+    },
+    {
+      "id": "2-16-60",
+      "arabic": "ﻢﹴ ﻨﺻ ﻢ ﺳ ﺍ",
+      "english": "Name of an idol"
+    },
+    {
+      "id": "2-16-61",
+      "arabic": "ﺐ ﻛﹶ ﻮ ﻛﹶ",
+      "english": "Star"
+    },
+    {
+      "id": "2-16-62",
+      "arabic": "ﻖ ﻴﺿ",
+      "english": "Narrow"
+    },
+    {
+      "id": "2-16-63",
+      "arabic": "ﺓﹲﺭﻮ ﺻ",
+      "english": "Picture"
+    },
+    {
+      "id": "2-16-64",
+      "arabic": "ﺭﻮ ﺻ",
+      "english": "Pictures"
+    },
+    {
+      "id": "2-16-65",
+      "arabic": "ﺮﻄﱠ ﺴ ﻣ",
+      "english": "Lined"
+    },
+    {
+      "id": "2-16-66",
+      "arabic": "ﺔﹲﻠﹶﺣ ﺮ ﻣ",
+      "english": "Level"
+    },
+    {
+      "id": "2-16-67",
+      "arabic": "ﺔﹲﻴﻛ ﺮﺗ",
+      "english": "Turkish\n(language)"
+    },
+    {
+      "id": "2-16-68",
+      "arabic": "ﻑ ﺮﺣ",
+      "english": "Letter of\nalphabet"
+    }
+  ]
+}

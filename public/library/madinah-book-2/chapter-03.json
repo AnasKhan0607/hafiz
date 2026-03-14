@@ -1,0 +1,502 @@
+{
+  "id": "madinah-2-03",
+  "name": "Madinah Book 2 - Lesson 3",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-03-01",
+      "arabic": "ﺮﺒﻛﹾ ﺃﹶ",
+      "english": "Bigger"
+    },
+    {
+      "id": "2-03-02",
+      "arabic": "ﺮﺼ ﻗﹾﺃﹶ",
+      "english": "shorter"
+    },
+    {
+      "id": "2-03-03",
+      "arabic": "ﻞﹸ ﻤ ﺟ ﺃﹶ",
+      "english": "More beautiful"
+    },
+    {
+      "id": "2-03-04",
+      "arabic": "ﻦ ﺴ ﺣ ﺃﹶ",
+      "english": "More better"
+    },
+    {
+      "id": "2-03-05",
+      "arabic": "ﻊ ﺳ ﻭ ﺃ",
+      "english": "More spacious"
+    },
+    {
+      "id": "2-03-06",
+      "arabic": "ﺮﻐﺻ ﺃﹶ",
+      "english": "Smaller"
+    },
+    {
+      "id": "2-03-07",
+      "arabic": "ﺮﻬ ﺷ ﺃﹶ",
+      "english": "Most famous"
+    },
+    {
+      "id": "2-03-08",
+      "arabic": "ﻡﺪ ﻗﹾﺃﹶ",
+      "english": "Older"
+    },
+    {
+      "id": "2-03-09",
+      "arabic": "ﻝﹸ ﻮ ﻃﹾ ﺃﹶ",
+      "english": "Taller"
+    },
+    {
+      "id": "2-03-10",
+      "arabic": "ﺮﻘﹶﻓﹾﺃﹶ",
+      "english": "Poorest/\nPoorer"
+    },
+    {
+      "id": "2-03-11",
+      "arabic": "ﺐ ﻌﺻ ﺃﹶ",
+      "english": "More difficult"
+    },
+    {
+      "id": "2-03-12",
+      "arabic": "ﺺ ﺧ ﺭ ﺃﹶ",
+      "english": "Cheaper"
+    },
+    {
+      "id": "2-03-13",
+      "arabic": "ﻒ ﻈﹶ ﻧﺃﹶ",
+      "english": "Cleaner"
+    },
+    {
+      "id": "2-03-14",
+      "arabic": "ﻞﹸ ﻬ ﺳ ﺃﹶ",
+      "english": "Easier"
+    },
+    {
+      "id": "2-03-15",
+      "arabic": "ﺪ ﻌﺑﺃ",
+      "english": "Further"
+    },
+    {
+      "id": "2-03-16",
+      "arabic": "ﺮﺜﹶﻛﹾ ﺃﹶ",
+      "english": "Much more"
+    },
+    {
+      "id": "2-03-17",
+      "arabic": "ﻦ ﻜ ﻟﻭ",
+      "english": "But"
+    },
+    {
+      "id": "2-03-18",
+      "arabic": "ﻪﻨﻜ ﻟﹶ",
+      "english": "But he/it"
+    },
+    {
+      "id": "2-03-19",
+      "arabic": "ﺎﻬ ﻨﻜ ﻟﹶ",
+      "english": "But she/it"
+    },
+    {
+      "id": "2-03-20",
+      "arabic": "ﻲﻨﻜ ﻟﹶ",
+      "english": "But I"
+    },
+    {
+      "id": "2-03-21",
+      "arabic": "ﻥﱠ ﺄﹶﻛﹶ",
+      "english": "As if"
+    },
+    {
+      "id": "2-03-22",
+      "arabic": "ﻪﻧﺄﹶﻛﹶ",
+      "english": "As if he"
+    },
+    {
+      "id": "2-03-23",
+      "arabic": "ﺎﻬ ﻧﺄﹶﻛﹶ",
+      "english": "As if she"
+    },
+    {
+      "id": "2-03-24",
+      "arabic": "ﻢ ﻬﻧﺄﹶﻛﹶ",
+      "english": "As if they (m,pl)"
+    },
+    {
+      "id": "2-03-25",
+      "arabic": "ﻦ ﻬ ﻧﺄﹶﻛﹶ",
+      "english": "As if they (f,pl)"
+    },
+    {
+      "id": "2-03-26",
+      "arabic": "ﻚ ﻧﺄﹶﻛﹶ",
+      "english": "As if you\n(m,sing.)"
+    },
+    {
+      "id": "2-03-27",
+      "arabic": "ﻚ ﻧﺄﹶﻛﹶ",
+      "english": "As if you (f,sing.)"
+    },
+    {
+      "id": "2-03-28",
+      "arabic": "؟ﻚ ﻟﺬﻛﹶ ﺲ ﻴﻟﹶﺃﹶ",
+      "english": "Isn’t that so?"
+    },
+    {
+      "id": "2-03-29",
+      "arabic": "ﺎﻤ ﻬ ﻳﺃﹶ",
+      "english": "Which of the\nthem (dual)"
+    },
+    {
+      "id": "2-03-30",
+      "arabic": "ﻰﻠﹶﺑ",
+      "english": "Indeed, of\ncourse, true"
+    },
+    {
+      "id": "2-03-31",
+      "arabic": "ﻊ ﺠ ﻬ ﻣ",
+      "english": "Hostel"
+    },
+    {
+      "id": "2-03-32",
+      "arabic": "ﻊ ﺟﹺ ﺎﻬ ﻣ",
+      "english": "Hostels"
+    },
+    {
+      "id": "2-03-33",
+      "arabic": "ﺐ ﻛﹶ ﻮ ﻛﹶ",
+      "english": "Star"
+    },
+    {
+      "id": "2-03-34",
+      "arabic": "ﺐ ﻛ ﺍﻮ ﻛﹶ",
+      "english": "Stars"
+    },
+    {
+      "id": "2-03-35",
+      "arabic": "ﻖ ﻳﺮﹺﻓﹶ",
+      "english": "Team"
+    },
+    {
+      "id": "2-03-36",
+      "arabic": "ﺀُﺎﻗﹶﺮﻓﹸ",
+      "english": "Teams"
+    },
+    {
+      "id": "2-03-37",
+      "arabic": "ﻖ ﻴﻘﺷ",
+      "english": "Full brother"
+    },
+    {
+      "id": "2-03-38",
+      "arabic": "ﺀُﺎﻘﱠﺷ ﺃﹶ",
+      "english": "Full brothers"
+    },
+    {
+      "id": "2-03-39",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺪ ﺣ ﺃﹶ",
+      "english": "Eleven students"
+    },
+    {
+      "id": "2-03-40",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺎﻨﺛﹾﺍ",
+      "english": "Twelve students"
+    },
+    {
+      "id": "2-03-41",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﺛﹶﻼﺛﹶ",
+      "english": "Thirteen\nstudents"
+    },
+    {
+      "id": "2-03-42",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﻌﺑﺭ ﺃﹶ",
+      "english": "Fourteen\nstudents"
+    },
+    {
+      "id": "2-03-43",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﺴ ﻤ ﺧ",
+      "english": "Fifteen students"
+    },
+    {
+      "id": "2-03-44",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﺘﺳ",
+      "english": "Sixteen students"
+    },
+    {
+      "id": "2-03-45",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﻌﺒﺳ",
+      "english": "Seventeen\nstudents"
+    },
+    {
+      "id": "2-03-46",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﻴﻧﹺﺎﲦﹶ",
+      "english": "Eighteen\nstudents"
+    },
+    {
+      "id": "2-03-47",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﺮﺸ ﻋ ﺔﹶﻌﺴ ﺗ",
+      "english": "Nineteen\nstudents"
+    },
+    {
+      "id": "2-03-48",
+      "arabic": "ﺎﹰﺒﻟﺎﻃﹶ ﻥﹶ ﻭ ﺮﺸ ﻋ",
+      "english": "Twenty students"
+    },
+    {
+      "id": "2-03-49",
+      "arabic": "ﻝﹸ ﻭﻷَ ﺍ",
+      "english": "First (m)"
+    },
+    {
+      "id": "2-03-50",
+      "arabic": "ﻲ ﻧﹺﺎﺜﱠﻟﺍ",
+      "english": "Second (m)"
+    },
+    {
+      "id": "2-03-51",
+      "arabic": "ﺚﹸ ﻟﺎﺜﱠﻟﺍ",
+      "english": "Third (m)"
+    },
+    {
+      "id": "2-03-52",
+      "arabic": "ﻊ ﺑﹺﺍﺮﻟﺍ",
+      "english": "Fourth (m)"
+    },
+    {
+      "id": "2-03-53",
+      "arabic": "ﺲ ﻣﺎﺨ ﻟﹾﺍ",
+      "english": "Fifth (m)"
+    },
+    {
+      "id": "2-03-54",
+      "arabic": "ﺱ ﺩﺎﺴ ﻟﺍ",
+      "english": "Sixth (m)"
+    },
+    {
+      "id": "2-03-55",
+      "arabic": "ﻊ ﺑﹺﺎﺴ ﻟﺍ",
+      "english": "Seventh (m)"
+    },
+    {
+      "id": "2-03-56",
+      "arabic": "ﻦ ﻣﺎﺜﱠﻟﺍ",
+      "english": "Eighth (m)"
+    },
+    {
+      "id": "2-03-57",
+      "arabic": "ﻊ ﺳ ﺎﺘﻟﺍ",
+      "english": "Ninth (m)"
+    },
+    {
+      "id": "2-03-58",
+      "arabic": "ﺮﺷ ﺎﻌﻟﹾﺍ",
+      "english": "Tenth (m)"
+    },
+    {
+      "id": "2-03-59",
+      "arabic": "ﻰﻟﹶﻭ ﻷُ ﺍ",
+      "english": "First (f)"
+    },
+    {
+      "id": "2-03-60",
+      "arabic": "ﺔﹸﻴﻧﹺﺎﺜﱠﻟﺍ",
+      "english": "Second (f)"
+    },
+    {
+      "id": "2-03-61",
+      "arabic": "ﺔﹸﺜﹶﻟﺎﺜﱠﻟﺍ",
+      "english": "Third (f)"
+    },
+    {
+      "id": "2-03-62",
+      "arabic": "ﺔﹸﻌﺑﹺﺍﺮﻟﺍ",
+      "english": "Fourth (f)"
+    },
+    {
+      "id": "2-03-63",
+      "arabic": "ﺔﹸﺴ ﻣﺎﳋﹶ ﺍ",
+      "english": "Fifth (f)"
+    },
+    {
+      "id": "2-03-64",
+      "arabic": "ﺔﹸُﺳ ﺩﺎﺴ ﻟﺍ",
+      "english": "Sixth (f)"
+    },
+    {
+      "id": "2-03-65",
+      "arabic": "ﺔﹸﻌﺑﹺﺎﺴ ﻟﺍ",
+      "english": "Seventh (f)"
+    },
+    {
+      "id": "2-03-66",
+      "arabic": "ﺔﹸﻨﻣﺎﺜﱠﻟﺍ",
+      "english": "Eighth (f)"
+    },
+    {
+      "id": "2-03-67",
+      "arabic": "ﺔﹸﻌﺳ ﺎﺘﻟﺍ",
+      "english": "Ninth (f)"
+    },
+    {
+      "id": "2-03-68",
+      "arabic": "ﺓﹸﺮﺷ ﺎﻌﻟﹾﺍ",
+      "english": "Tenth (f)"
+    },
+    {
+      "id": "2-03-69",
+      "arabic": "ﺀَﺎﺟ",
+      "english": "He came"
+    },
+    {
+      "id": "2-03-70",
+      "arabic": "ﻯﺃﹶﺭ",
+      "english": "He saw"
+    },
+    {
+      "id": "2-03-71",
+      "arabic": "ﺪ ﻳﺭﹺﺃﹸ",
+      "english": "I want"
+    },
+    {
+      "id": "2-03-72",
+      "arabic": "ﺍﹰﺮﻜﹾ ﺷ",
+      "english": "Thanks"
+    },
+    {
+      "id": "2-03-73",
+      "arabic": "ﻑ ﺮﻏﹸ",
+      "english": "Rooms"
+    },
+    {
+      "id": "2-03-74",
+      "arabic": "ﻱ ﻮﹺ ﻗﹶ",
+      "english": "Strong"
+    },
+    {
+      "id": "2-03-75",
+      "arabic": "ﻢ ﻟﺎﻋ",
+      "english": "World"
+    },
+    {
+      "id": "2-03-76",
+      "arabic": "ﺚﹲ ﻧﺆ ﻣ",
+      "english": "Feminine"
+    },
+    {
+      "id": "2-03-77",
+      "arabic": "ﻞﻴﻀ ﻔﹾﺘﻟﺍ ﻞﹸ ﻌﻓ",
+      "english": "Elative (Comparative/\nSuperlative)"
+    },
+    {
+      "id": "2-03-78",
+      "arabic": "ﺍﺬﹶ ﻜﹶ ﻫ",
+      "english": "Like this"
+    },
+    {
+      "id": "2-03-79",
+      "arabic": "ﻦ ﺳ",
+      "english": "Age/tooth"
+    },
+    {
+      "id": "2-03-80",
+      "arabic": "ﺮﻬ ﺷ",
+      "english": "Month"
+    },
+    {
+      "id": "2-03-81",
+      "arabic": "ﺮﻬ ﺷ ﺃﹶ ، ﺭﻮ ﻬ ﺷ",
+      "english": "Months"
+    },
+    {
+      "id": "2-03-82",
+      "arabic": "ﺐ ﻋ ﻻ",
+      "english": "Player"
+    },
+    {
+      "id": "2-03-83",
+      "arabic": "ﻥﹶ ﻮ ﺒﻋ ﻻﹶ",
+      "english": "Players"
+    },
+    {
+      "id": "2-03-84",
+      "arabic": "ﺮﻴﻬﹺ ﺷ",
+      "english": "Famous"
+    },
+    {
+      "id": "2-03-85",
+      "arabic": "ﻦ ﻤ ﺛﹶ",
+      "english": "Price"
+    },
+    {
+      "id": "2-03-86",
+      "arabic": "ﻥﹸ ﻼﺴ ﻛﹶ",
+      "english": "Lazy (m,sl)"
+    },
+    {
+      "id": "2-03-87",
+      "arabic": "ﻰﻠﹶﺴ ﻛﹶ",
+      "english": "Lazy (f,sl)"
+    },
+    {
+      "id": "2-03-88",
+      "arabic": "ﻡﹺﺎﻨﻤ ﻟﹾﺍ ﰲ",
+      "english": "In a dream"
+    },
+    {
+      "id": "2-03-89",
+      "arabic": "ﺀٌﺰﺟ",
+      "english": "Part"
+    },
+    {
+      "id": "2-03-90",
+      "arabic": "ﺮﻴﺸ ﻳ",
+      "english": "He is pointing"
+    },
+    {
+      "id": "2-03-91",
+      "arabic": "ﺮﻫ ﺯ ﻷَ ﺍ",
+      "english": "Al-Azhar\n(university)"
+    },
+    {
+      "id": "2-03-92",
+      "arabic": "ﻪﻨﻣ",
+      "english": "Than him"
+    },
+    {
+      "id": "2-03-93",
+      "arabic": "ﺎﻬ ﻨﻣ",
+      "english": "Than her"
+    },
+    {
+      "id": "2-03-94",
+      "arabic": "ﻚ ﻨﻣ",
+      "english": "Than you\n(m.sing.)"
+    },
+    {
+      "id": "2-03-95",
+      "arabic": "ﺎﻨﻣ",
+      "english": "Than us"
+    },
+    {
+      "id": "2-03-96",
+      "arabic": "ﺾ ﻴﺣ ﺍﺮﻣ",
+      "english": "Toilets"
+    },
+    {
+      "id": "2-03-97",
+      "arabic": "ﻦ ﻋ",
+      "english": "From"
+    },
+    {
+      "id": "2-03-98",
+      "arabic": "ﺲﹺ ﻣﺃﹶ",
+      "english": "Yesterday"
+    },
+    {
+      "id": "2-03-99",
+      "arabic": "ﻂﱞ ﺧ",
+      "english": "Handwriting"
+    }
+  ]
+}

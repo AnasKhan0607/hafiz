@@ -1,0 +1,407 @@
+{
+  "id": "madinah-2-07",
+  "name": "Madinah Book 2 - Lesson 7",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-07-01",
+      "arabic": "ﻝﹶ ﺰﻧ",
+      "english": "He descended"
+    },
+    {
+      "id": "2-07-02",
+      "arabic": "ﻰﺸ ﻣ",
+      "english": "He walked"
+    },
+    {
+      "id": "2-07-03",
+      "arabic": "ﺬﹶ ﺧ ﺃﹶ",
+      "english": "He took"
+    },
+    {
+      "id": "2-07-04",
+      "arabic": "ﻊ ﺿ ﻭ",
+      "english": "He placed"
+    },
+    {
+      "id": "2-07-05",
+      "arabic": "ﺪ ﺟ ﻭ",
+      "english": "He found"
+    },
+    {
+      "id": "2-07-06",
+      "arabic": "ﻦ ﻋ ﺚﹶ ﺤ ﺑ",
+      "english": "He looked for"
+    },
+    {
+      "id": "2-07-07",
+      "arabic": "ﻥﹶ ﺎﻛﹶ",
+      "english": "He/it was"
+    },
+    {
+      "id": "2-07-08",
+      "arabic": "ﺖ ﻧﺎﻛﹶ",
+      "english": "She/it was"
+    },
+    {
+      "id": "2-07-09",
+      "arabic": "ﻡﺎﻗﹶ",
+      "english": "He stood"
+    },
+    {
+      "id": "2-07-10",
+      "arabic": "ﺡ ﺮﹺﻓﹶ",
+      "english": "He rejoiced"
+    },
+    {
+      "id": "2-07-11",
+      "arabic": "ﻥﱡ ﺮﹺﻳ",
+      "english": "Rang (phone)"
+    },
+    {
+      "id": "2-07-12",
+      "arabic": "ﺏ ﺎﻴﺛ",
+      "english": "Clothing"
+    },
+    {
+      "id": "2-07-13",
+      "arabic": "ﻑ ﻼﹶ ﻏ",
+      "english": "Cover (book)"
+    },
+    {
+      "id": "2-07-14",
+      "arabic": "ﻝﹴ ﺎﻋ",
+      "english": "High, loud (m)"
+    },
+    {
+      "id": "2-07-15",
+      "arabic": "ﺔﹲﻴﻟﺎﻋ",
+      "english": "High loud (f)"
+    },
+    {
+      "id": "2-07-16",
+      "arabic": "ﺮﺘﺘﺴ ﻣ ﺮﻴﻤ ﺿ",
+      "english": "Hidden pronoun"
+    },
+    {
+      "id": "2-07-17",
+      "arabic": "ﺚ ﻴﻧﹺﺄﺘﻟﺍ ﺔﹸﻣﻼﹶ ﻋ",
+      "english": "Sign of femininity"
+    },
+    {
+      "id": "2-07-18",
+      "arabic": "ﻊﹺ ﻤ ﺠ ﻟﹾﺍ ﺔﹸﻣﻼﹶ ﻋ",
+      "english": "Sign of plural"
+    },
+    {
+      "id": "2-07-19",
+      "arabic": "ﻒ ﺼ ﻧﹺ",
+      "english": "Half"
+    },
+    {
+      "id": "2-07-20",
+      "arabic": "ﺚﹲ ﻠﹸﺛﹸ",
+      "english": "One third"
+    },
+    {
+      "id": "2-07-21",
+      "arabic": "ﻊ ﺑﺭ",
+      "english": "One fourth"
+    },
+    {
+      "id": "2-07-22",
+      "arabic": "ﺲ ﻤ ﺧ",
+      "english": "One fifth"
+    },
+    {
+      "id": "2-07-23",
+      "arabic": "ﺱ ﺪ ﺳ",
+      "english": "One sixth"
+    },
+    {
+      "id": "2-07-24",
+      "arabic": "ﻊ ﺒﺳ",
+      "english": "One seventh"
+    },
+    {
+      "id": "2-07-25",
+      "arabic": "ﻦ ﻤ ﺛﹸ",
+      "english": "One eighth"
+    },
+    {
+      "id": "2-07-26",
+      "arabic": "ﻊ ﺴ ﺗ",
+      "english": "One ninth"
+    },
+    {
+      "id": "2-07-27",
+      "arabic": "ﺮﺸ ﻋ",
+      "english": "One tenth"
+    },
+    {
+      "id": "2-07-28",
+      "arabic": "ﺏ ﺎﺷ",
+      "english": "Youth"
+    },
+    {
+      "id": "2-07-29",
+      "arabic": "ﺮﻌﺷ",
+      "english": "Hair"
+    },
+    {
+      "id": "2-07-30",
+      "arabic": "ﻦ ﻴﻣﺁ",
+      "english": "Ameen"
+    },
+    {
+      "id": "2-07-31",
+      "arabic": "ﺢ ﻴﺤ ﺻ",
+      "english": "Correct"
+    },
+    {
+      "id": "2-07-32",
+      "arabic": "ﻒ ﺤ ﺻ",
+      "english": "Newspaper"
+    },
+    {
+      "id": "2-07-33",
+      "arabic": "ﺔﹲﺴ ﻨﻜﹾ ﻣ",
+      "english": "Broom"
+    },
+    {
+      "id": "2-07-34",
+      "arabic": "ﺲ ﻧﹺﺎﻜﹶ ﻣ",
+      "english": "Brooms"
+    },
+    {
+      "id": "2-07-35",
+      "arabic": "ﺔﹲﺣ ﺭﹺﺎﺑ",
+      "english": "Last night"
+    },
+    {
+      "id": "2-07-36",
+      "arabic": "ﻢ ﻠﱠﺳ",
+      "english": "Staircase"
+    },
+    {
+      "id": "2-07-37",
+      "arabic": "ﻢ ﻟﻼﹶ ﺳ",
+      "english": "Staircases"
+    },
+    {
+      "id": "2-07-38",
+      "arabic": "ﺓﹲﺭﺎﻨﻣ",
+      "english": "Minaret"
+    },
+    {
+      "id": "2-07-39",
+      "arabic": "ﺮﺋﺎﻨﻣ",
+      "english": "Minarets"
+    },
+    {
+      "id": "2-07-40",
+      "arabic": "ﺓﹲﺭﺎﻈﱠ ﻧ",
+      "english": "Spectacle"
+    },
+    {
+      "id": "2-07-41",
+      "arabic": "ﺕ ﺍﺭﺎﻈﱠ ﻧ",
+      "english": "Spectacles"
+    },
+    {
+      "id": "2-07-42",
+      "arabic": "ﺔﹲﻠﹶﺠ ﻋ",
+      "english": "Wheel"
+    },
+    {
+      "id": "2-07-43",
+      "arabic": "ﻞﹲ ﺠ ﻋ",
+      "english": "Wheels"
+    },
+    {
+      "id": "2-07-44",
+      "arabic": "ﺔﹲﻴﺤ ﻟ",
+      "english": "Beard"
+    },
+    {
+      "id": "2-07-45",
+      "arabic": "ﻰ ﺤ ﻟﹸ",
+      "english": "Beard (pl)"
+    },
+    {
+      "id": "2-07-46",
+      "arabic": "ﺓﹲﺭﻮ ﺻ",
+      "english": "Picture"
+    },
+    {
+      "id": "2-07-47",
+      "arabic": "ﺭﻮ ﺻ",
+      "english": "Pictures"
+    },
+    {
+      "id": "2-07-48",
+      "arabic": "ﺔﹲﻋ ﺍﺫﹶﺇﹺ",
+      "english": "Broadcasting, radio"
+    },
+    {
+      "id": "2-07-49",
+      "arabic": "ﺕ ﺎﻋ ﺍﺫﹶﺇﹺ",
+      "english": "Broadcasting,\nradios"
+    },
+    {
+      "id": "2-07-50",
+      "arabic": "ﺎﻫ ﻮ ﻤ ﺘﻠﹾﺘﻗﹶ",
+      "english": "You killed her/it"
+    },
+    {
+      "id": "2-07-51",
+      "arabic": "ﻩﻮ ﻤ ﺘﺑﺮﺿ",
+      "english": "You hit him/it"
+    },
+    {
+      "id": "2-07-52",
+      "arabic": "ﻢ ﻫ ﻮ ﻤ ﺘﻳﺃﹶﺭ",
+      "english": "You saw them"
+    },
+    {
+      "id": "2-07-53",
+      "arabic": "ﺮﺸ ﺑﺃﹶ",
+      "english": "rejoice"
+    },
+    {
+      "id": "2-07-54",
+      "arabic": "ﺓﹲﺭﺎﻳﺯﹺ",
+      "english": "Visiting"
+    },
+    {
+      "id": "2-07-55",
+      "arabic": "ﻥﹲ ﻮﻠﹶﻣ",
+      "english": "Coloured"
+    },
+    {
+      "id": "2-07-56",
+      "arabic": "ﺮﻴﺼ ﻋ",
+      "english": "Juice"
+    },
+    {
+      "id": "2-07-57",
+      "arabic": "ﻝﹲ ﺎﻘﹶﺗﺮﺑ",
+      "english": "Orange"
+    },
+    {
+      "id": "2-07-58",
+      "arabic": "ﺡ ﺎﺒﺻ",
+      "english": "Morning"
+    },
+    {
+      "id": "2-07-59",
+      "arabic": "ﻲﺿ ﺎﻤ ﻟﹾﺍ ﻉ ﻮ ﺒﺳ ﻷُ ﺍ",
+      "english": "Last week"
+    },
+    {
+      "id": "2-07-60",
+      "arabic": "ﻊ ﻴﻤ ﺟ",
+      "english": "Everyone"
+    },
+    {
+      "id": "2-07-61",
+      "arabic": "ﺱ ﺮﺟ",
+      "english": "Bell"
+    },
+    {
+      "id": "2-07-62",
+      "arabic": "ﻥﹸ ﺍﻭ ﺮﻣ",
+      "english": "Marwaan"
+    },
+    {
+      "id": "2-07-63",
+      "arabic": "ﺭﺎﺒﺧ ﺃﹶ",
+      "english": "News"
+    },
+    {
+      "id": "2-07-64",
+      "arabic": "ﻲﺋﺎﻨﺑﺃﹶ ﺎﻳ",
+      "english": "O my sons"
+    },
+    {
+      "id": "2-07-65",
+      "arabic": "ﺭﻮ ﻬ ﺸ ﻣ",
+      "english": "Well known"
+    },
+    {
+      "id": "2-07-66",
+      "arabic": "ﺔﻠﱠﺴ ﻟﺍ ﺓﹸﺮﻛﹸ",
+      "english": "Basketball"
+    },
+    {
+      "id": "2-07-67",
+      "arabic": "ﻡﹺﺪ ﻘﹶﻟﹾﺍ ﺓﹸﺮﻛﹸ",
+      "english": "Football"
+    },
+    {
+      "id": "2-07-68",
+      "arabic": "ﻥﹲ ﻮ ﺑﺎﺻ",
+      "english": "Soap"
+    },
+    {
+      "id": "2-07-69",
+      "arabic": "ﻡﻮ ﻴﻟﹾﺍ",
+      "english": "Today"
+    },
+    {
+      "id": "2-07-70",
+      "arabic": "ﻲ ﻓ ﺎﻤ ﻛﹶ ﺀُﺎﺘﻟﺍ",
+      "english": "The ta just as"
+    },
+    {
+      "id": "2-07-71",
+      "arabic": "ﻲ ﻓ ﺎﻤ ﻛﹶ ﻭ ﺍﻮﻟﺍ",
+      "english": "The waw just as"
+    },
+    {
+      "id": "2-07-72",
+      "arabic": "ﻲ ﻓ ﺎﻤ ﻛﹶ ﻥﹸ ﻮ ﻨﻟﺍ",
+      "english": "The nun just as"
+    },
+    {
+      "id": "2-07-73",
+      "arabic": "ﻲ ﻓ ﺎﻤ ﻛﹶ ﺎﻧ",
+      "english": "The naa just as"
+    },
+    {
+      "id": "2-07-74",
+      "arabic": "ﺩﺮﻔﹾﻤ ﻟﹾﺍ",
+      "english": "Singular"
+    },
+    {
+      "id": "2-07-75",
+      "arabic": "ﻊ ﻤ ﺠ ﻟﹾﺍ",
+      "english": "Plural"
+    },
+    {
+      "id": "2-07-76",
+      "arabic": "ﺮﻛﱠ ﺬﹶ ﻤ ﻟﹾﺍ",
+      "english": "Masculine"
+    },
+    {
+      "id": "2-07-77",
+      "arabic": "ﺚﹸ ﻧﺆ ﻤ ﻟﹾﺍ",
+      "english": "feminine"
+    },
+    {
+      "id": "2-07-78",
+      "arabic": "ﺐ ﺋﺎﻐﻟﹾﺍ",
+      "english": "3rd person"
+    },
+    {
+      "id": "2-07-79",
+      "arabic": "ﺐ ﻃﹶ ﺎﺨ ﻤ ﻟﹾﺍ",
+      "english": "2nd person"
+    },
+    {
+      "id": "2-07-80",
+      "arabic": "ﻢ ﻠﱢﻜﹶ ﺘﻤ ﻟﹾﺍ",
+      "english": "1st person"
+    }
+  ]
+}

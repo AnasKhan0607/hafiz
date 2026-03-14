@@ -1,0 +1,447 @@
+{
+  "id": "madinah-2-26",
+  "name": "Madinah Book 2 - Lesson 26",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-26-01",
+      "arabic": "ﻊ ﻠﺑ",
+      "english": "He swallowed"
+    },
+    {
+      "id": "2-26-02",
+      "arabic": "ﻊ ﻠﹶﺒﻳ",
+      "english": "He swallows"
+    },
+    {
+      "id": "2-26-03",
+      "arabic": "ﺝ ﺮﻋ",
+      "english": "He ascended"
+    },
+    {
+      "id": "2-26-04",
+      "arabic": "ﺝ ﺮﻌﻳ",
+      "english": "He ascends"
+    },
+    {
+      "id": "2-26-05",
+      "arabic": "ﺐ ﺟ ﻭ",
+      "english": "It was necessary"
+    },
+    {
+      "id": "2-26-06",
+      "arabic": "ﺐ ﺠﹺ ﻳ",
+      "english": "It is necessary"
+    },
+    {
+      "id": "2-26-07",
+      "arabic": "ﻞﹶ ﺻ ﻭ",
+      "english": "He arrived"
+    },
+    {
+      "id": "2-26-08",
+      "arabic": "ﻞﹸ ﺼ ﻳ",
+      "english": "He arrives"
+    },
+    {
+      "id": "2-26-09",
+      "arabic": "ﺪ ﺟ ﻭ",
+      "english": "He found"
+    },
+    {
+      "id": "2-26-10",
+      "arabic": "ﺪ ﺠﹺ ﻳ",
+      "english": "He finds"
+    },
+    {
+      "id": "2-26-11",
+      "arabic": "ﻥﹶ ﺯﻭ",
+      "english": "He weighed"
+    },
+    {
+      "id": "2-26-12",
+      "arabic": "ﻥﹸ ﺰﹺﻳ",
+      "english": "He weighs"
+    },
+    {
+      "id": "2-26-13",
+      "arabic": "ﺪ ﻋ ﻭ",
+      "english": "He promised"
+    },
+    {
+      "id": "2-26-14",
+      "arabic": "ﺪ ﻌﻳ",
+      "english": "He promises"
+    },
+    {
+      "id": "2-26-15",
+      "arabic": "ﻒ ﻗﹶﻭ",
+      "english": "He stood"
+    },
+    {
+      "id": "2-26-16",
+      "arabic": "ﻒ ﻘﻳ",
+      "english": "He stands"
+    },
+    {
+      "id": "2-26-17",
+      "arabic": "ﺞ ﻟﹶﻭ",
+      "english": "He entered"
+    },
+    {
+      "id": "2-26-18",
+      "arabic": "ﺞ ﻠﻳ",
+      "english": "He enters"
+    },
+    {
+      "id": "2-26-19",
+      "arabic": "ﻊ ﺿ ﻭ",
+      "english": "He placed"
+    },
+    {
+      "id": "2-26-20",
+      "arabic": "ﻊ ﻀ ﻳ",
+      "english": "He places"
+    },
+    {
+      "id": "2-26-21",
+      "arabic": "ﺐ ﻫ ﻭ",
+      "english": "He granted"
+    },
+    {
+      "id": "2-26-22",
+      "arabic": "ﺐ ﻬ ﻳ",
+      "english": "He grants"
+    },
+    {
+      "id": "2-26-23",
+      "arabic": "ﺢ ﻜﹶ ﻧ",
+      "english": "He married"
+    },
+    {
+      "id": "2-26-24",
+      "arabic": "ﺢ ﻜ ﻨﻳ",
+      "english": "He marries"
+    },
+    {
+      "id": "2-26-25",
+      "arabic": "ﺮﻴﺴِ ﻳ",
+      "english": "He walks"
+    },
+    {
+      "id": "2-26-26",
+      "arabic": "ﺮﻫ ﺎﻈﹶ ﺘﻳ",
+      "english": "He pretends"
+    },
+    {
+      "id": "2-26-27",
+      "arabic": "ﺡ ﺎﻜﹶ ﻧﹺ",
+      "english": "Marriage"
+    },
+    {
+      "id": "2-26-28",
+      "arabic": "ﺏ ﺁ",
+      "english": "He returned"
+    },
+    {
+      "id": "2-26-29",
+      "arabic": "ﺏ ﻭﺆ ﻳ",
+      "english": "He returns"
+    },
+    {
+      "id": "2-26-30",
+      "arabic": "ﺏ ﺎﻫ ﺫﹶ",
+      "english": "Going"
+    },
+    {
+      "id": "2-26-31",
+      "arabic": "ﺏ ﺎﻳﺇﹺ",
+      "english": "Returning"
+    },
+    {
+      "id": "2-26-32",
+      "arabic": "ﺡ ﺎﺠ ﻧ",
+      "english": "Success"
+    },
+    {
+      "id": "2-26-33",
+      "arabic": "ﻖ ﻳﺮﹺﻃﹶ",
+      "english": "Path/Way"
+    },
+    {
+      "id": "2-26-34",
+      "arabic": "ﻡﹴﺎﻈﹶ ﺘﻧﺎﺑﹺ",
+      "english": "Regularly"
+    },
+    {
+      "id": "2-26-35",
+      "arabic": "ﺍﺫﹶ ﻮ ﻫ ﺎﻫ",
+      "english": "Here it is (m)"
+    },
+    {
+      "id": "2-26-36",
+      "arabic": "ﺍﺬﹶ ﻧﺄﹶﻫ",
+      "english": "Here I am"
+    },
+    {
+      "id": "2-26-37",
+      "arabic": "ﻱ ﺫ ﻲ ﻫ ﺎﻫ",
+      "english": "Here it is (f)"
+    },
+    {
+      "id": "2-26-38",
+      "arabic": "ﺪ ﻴﻟﹶﻭ",
+      "english": "Small boy"
+    },
+    {
+      "id": "2-26-39",
+      "arabic": "ﻞﹲ ﻴﺒﺟ",
+      "english": "Small mountain"
+    },
+    {
+      "id": "2-26-40",
+      "arabic": "ﺮﻴﻬ ﻧ",
+      "english": "Small river"
+    },
+    {
+      "id": "2-26-41",
+      "arabic": "ﺐ ﻴﻠﹶﻛﹸ",
+      "english": "Small dog"
+    },
+    {
+      "id": "2-26-42",
+      "arabic": "ﺮﻴﻫ ﺯ",
+      "english": "Zuhayr"
+    },
+    {
+      "id": "2-26-43",
+      "arabic": "ﺪ ﻴﺒﻋ",
+      "english": "Ubayd"
+    },
+    {
+      "id": "2-26-44",
+      "arabic": "ﻦ ﻴﺴ ﺣ",
+      "english": "Husayn"
+    },
+    {
+      "id": "2-26-45",
+      "arabic": "ﺬﹲ ﻳﺬ ﻟﹶ",
+      "english": "Delicious"
+    },
+    {
+      "id": "2-26-46",
+      "arabic": "ﺬﱡ ﻟﹶﺃﹶ",
+      "english": "Most delicious"
+    },
+    {
+      "id": "2-26-47",
+      "arabic": "ﺪ ﻳﺪ ﺷ",
+      "english": "Severe"
+    },
+    {
+      "id": "2-26-48",
+      "arabic": "ﺪ ﺷ ﺃﹶ",
+      "english": "Severest"
+    },
+    {
+      "id": "2-26-49",
+      "arabic": "ﺐ ﻴﺒﹺﺣ",
+      "english": "Dear/beloved"
+    },
+    {
+      "id": "2-26-50",
+      "arabic": "ﺐ ﺣ ﺃﹶ",
+      "english": "Most\nbeloved/dearest"
+    },
+    {
+      "id": "2-26-51",
+      "arabic": "ﻞﹲ ﻴﻠﻗﹶ",
+      "english": "Few"
+    },
+    {
+      "id": "2-26-52",
+      "arabic": "ﻞﱡ ﻗﹶﺃﹶ",
+      "english": "Fewer/ lesser"
+    },
+    {
+      "id": "2-26-53",
+      "arabic": "ﺔﹲﻈﹶ ﻔﹶﺤ ﻣ",
+      "english": "Purse"
+    },
+    {
+      "id": "2-26-54",
+      "arabic": "ﺪ ﻘﹾﻧ",
+      "english": "Money/cash"
+    },
+    {
+      "id": "2-26-55",
+      "arabic": "ﺩﻮ ﻘﹸﻧ",
+      "english": "Monies"
+    },
+    {
+      "id": "2-26-56",
+      "arabic": "ﺄﹲﻄﹶ ﺧ",
+      "english": "Mistake"
+    },
+    {
+      "id": "2-26-57",
+      "arabic": "ﺀٌﺎﻄﹶ ﺧ ﺃﹶ",
+      "english": "Mistake (pl)"
+    },
+    {
+      "id": "2-26-58",
+      "arabic": "ﺹ ﺮﻗﹸ",
+      "english": "Tablet/disk"
+    },
+    {
+      "id": "2-26-59",
+      "arabic": "ﺹ ﺍﺮﻗﹾﺃﹶ",
+      "english": "Tablets/disks"
+    },
+    {
+      "id": "2-26-60",
+      "arabic": "ﺓﹲﺮﻛ ﺬﹾ ﺗ",
+      "english": "Ticket"
+    },
+    {
+      "id": "2-26-61",
+      "arabic": "ﺮﻛ ﺍﺬﹶ ﺗ",
+      "english": "Tickets"
+    },
+    {
+      "id": "2-26-62",
+      "arabic": "ﻡﺍﺮﻏ ﻮﻠﹸﻴﻛ",
+      "english": "Kilogram"
+    },
+    {
+      "id": "2-26-63",
+      "arabic": "ﺕ ﺎﻣﺍﺮﻏ ﻮﻠﹸﻴﻛ",
+      "english": "Kilogram’s"
+    },
+    {
+      "id": "2-26-64",
+      "arabic": "ﺮﻛﹶ ﺫﹶ",
+      "english": "Male"
+    },
+    {
+      "id": "2-26-65",
+      "arabic": "ﺭﻮ ﻛﹸ ﺫﹸ",
+      "english": "Males"
+    },
+    {
+      "id": "2-26-66",
+      "arabic": "ﻰﺜﹶﻧﺃﹸ",
+      "english": "Female"
+    },
+    {
+      "id": "2-26-67",
+      "arabic": "ﺙﹲ ﺎﻧﺇﹺ",
+      "english": "Females"
+    },
+    {
+      "id": "2-26-68",
+      "arabic": "ﺎﹰﺑﺎﻫﺫﹶ ﺓﺮﺋﺎﻄﱠ ﻟﺍ ﺓﹸﺮﻛ ﺬﹾ ﺗ\nﺎﺑﺎﻳﺇﹺﻭ",
+      "english": "Return air ticket"
+    },
+    {
+      "id": "2-26-69",
+      "arabic": "ﻝﹸ ﺎﺜﹶﻤ ﻟﹾﺍ ﻞﹸ ﻌﻔﻟﹾﺍ",
+      "english": "Name of a verb\nwith a weak 1st\nradical"
+    },
+    {
+      "id": "2-26-70",
+      "arabic": "ﻑ ﻮﺟ ﻷَ ﺍ ﻞﹸ ﻌﻔﻟﹾﺍ",
+      "english": "Name of a verb\nwith a weak 2nd\nradical"
+    },
+    {
+      "id": "2-26-71",
+      "arabic": "ﺺ ﻗﺎﻨﻟﺍ ﻞﹸ ﻌﻔﻟﹾﺍ",
+      "english": "Name of a verb\nwith a weak 3rd\nradical"
+    },
+    {
+      "id": "2-26-72",
+      "arabic": "ﻒ ﻌﻀ ﻤ ﻟﹾﺍ ﻞﹸ ﻌﻔﻟﹾﺍ",
+      "english": "Name of a verb\nwith a double\nradical"
+    },
+    {
+      "id": "2-26-73",
+      "arabic": "ﻞﱡ ﺘﻌﻤ ﻟﹾﺍ",
+      "english": "Weak"
+    },
+    {
+      "id": "2-26-74",
+      "arabic": "ﻥﹾ ﺯﹺ",
+      "english": "Ring!"
+    },
+    {
+      "id": "2-26-75",
+      "arabic": "ﻊ ﺿ",
+      "english": "Put!"
+    },
+    {
+      "id": "2-26-76",
+      "arabic": "ﻒ ﻗ",
+      "english": "Stop/stand!"
+    },
+    {
+      "id": "2-26-77",
+      "arabic": "ﻙ ﺮﺤ ﺘﻣ",
+      "english": "Taking a vowel"
+    },
+    {
+      "id": "2-26-78",
+      "arabic": "ﻲ ﺒﹺﻨﺟ ﺃﹶ",
+      "english": "Stranger"
+    },
+    {
+      "id": "2-26-79",
+      "arabic": "ﺪ ﺣ ﺃﹶ",
+      "english": "Anyone"
+    },
+    {
+      "id": "2-26-80",
+      "arabic": "ﻦ ﻣﺩ",
+      "english": "Sour/bitter"
+    },
+    {
+      "id": "2-26-81",
+      "arabic": "ﺩﺮﺑ",
+      "english": "Cold"
+    },
+    {
+      "id": "2-26-82",
+      "arabic": "ﺀٌﺎﺤ ﻧﺃﹶ",
+      "english": "Parts"
+    },
+    {
+      "id": "2-26-83",
+      "arabic": "ﻥﹲ ﺎﺴ ﻟ",
+      "english": "Tongue"
+    },
+    {
+      "id": "2-26-84",
+      "arabic": "ﺏ ﺎﻳﺇﹺ",
+      "english": "Return!"
+    },
+    {
+      "id": "2-26-85",
+      "arabic": "ﺔﹲﻴﺒﹺﻨﺟ ﺃﹶ",
+      "english": "Foreign!"
+    },
+    {
+      "id": "2-26-86",
+      "arabic": "ﻒ ﺣ ﺎﺼ ﻣ",
+      "english": "Copies of Quraan"
+    },
+    {
+      "id": "2-26-87",
+      "arabic": "ﺮﻫ ﺎﻈﹶ ﺘﻳ",
+      "english": "To pretend"
+    },
+    {
+      "id": "2-26-88",
+      "arabic": "ﺭﺪ ﺼ ﻣ",
+      "english": "Verbal noun"
+    }
+  ]
+}

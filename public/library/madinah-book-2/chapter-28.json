@@ -1,0 +1,352 @@
+{
+  "id": "madinah-2-28",
+  "name": "Madinah Book 2 - Lesson 28",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-28-01",
+      "arabic": "ﻯﺪ ﻫ",
+      "english": "He guided"
+    },
+    {
+      "id": "2-28-02",
+      "arabic": "ﻱﺪ ﻬ ﻳ",
+      "english": "He guides"
+    },
+    {
+      "id": "2-28-03",
+      "arabic": "ﻯﻮ ﻃﹶ",
+      "english": "He folded"
+    },
+    {
+      "id": "2-28-04",
+      "arabic": "ﻱﻮﹺ ﻄﹾ ﻳ",
+      "english": "He folds"
+    },
+    {
+      "id": "2-28-05",
+      "arabic": "ﻰﺗﺃﹶ",
+      "english": "He came"
+    },
+    {
+      "id": "2-28-06",
+      "arabic": "ﻲﺗﺄﻳ",
+      "english": "He comes"
+    },
+    {
+      "id": "2-28-07",
+      "arabic": "ﻊ ﺒﹺﺗ",
+      "english": "He followed"
+    },
+    {
+      "id": "2-28-08",
+      "arabic": "ﻊ ﺒﺘﻳ",
+      "english": "He follows"
+    },
+    {
+      "id": "2-28-09",
+      "arabic": "ﻊ ﻗﹶﻭ",
+      "english": "He fell"
+    },
+    {
+      "id": "2-28-10",
+      "arabic": "ﻊ ﻘﹶﻳ",
+      "english": "He falls"
+    },
+    {
+      "id": "2-28-11",
+      "arabic": "ﻯﻮ ﻛﹶ",
+      "english": "He ironed"
+    },
+    {
+      "id": "2-28-12",
+      "arabic": "ﻱﻮﹺ ﻜﹾ ﻳ",
+      "english": "He irons"
+    },
+    {
+      "id": "2-28-13",
+      "arabic": "ﻰﺸ ﻣ",
+      "english": "He walked"
+    },
+    {
+      "id": "2-28-14",
+      "arabic": "ﻲﺸ ﻤ ﻳ",
+      "english": "He walks"
+    },
+    {
+      "id": "2-28-15",
+      "arabic": "ﻯﺮﺟ",
+      "english": "He ran"
+    },
+    {
+      "id": "2-28-16",
+      "arabic": "ﻱﺮﹺﺠ ﻳ",
+      "english": "Hu runs"
+    },
+    {
+      "id": "2-28-17",
+      "arabic": "ﻰﻣﺭ",
+      "english": "He threw"
+    },
+    {
+      "id": "2-28-18",
+      "arabic": "ﻲﻣﺮﻳ",
+      "english": "He throws"
+    },
+    {
+      "id": "2-28-19",
+      "arabic": "ﻰﻜﹶ ﺑ",
+      "english": "He cried"
+    },
+    {
+      "id": "2-28-20",
+      "arabic": "ﻲﻜ ﺒﻳ",
+      "english": "He cries"
+    },
+    {
+      "id": "2-28-21",
+      "arabic": "ﻰﻘﹶﺳ",
+      "english": "He gave water"
+    },
+    {
+      "id": "2-28-22",
+      "arabic": "ﻲﻘﺴ ﻳ",
+      "english": "He gives water"
+    },
+    {
+      "id": "2-28-23",
+      "arabic": "ﻰﻨﺑ",
+      "english": "He built"
+    },
+    {
+      "id": "2-28-24",
+      "arabic": "ﻲﻨﹺﺒﻳ",
+      "english": "He builds"
+    },
+    {
+      "id": "2-28-25",
+      "arabic": "ﺎﻋ ﺩ",
+      "english": "He invited"
+    },
+    {
+      "id": "2-28-26",
+      "arabic": "ﻮ ﻋ ﺪ ﻳ",
+      "english": "He invites"
+    },
+    {
+      "id": "2-28-27",
+      "arabic": "ﺎﻜﹶ ﺷ",
+      "english": "He complained"
+    },
+    {
+      "id": "2-28-28",
+      "arabic": "ﻮﻜﹸ ﺸ ﻳ",
+      "english": "He complains"
+    },
+    {
+      "id": "2-28-29",
+      "arabic": "ﻼﹶ ﺗ",
+      "english": "He recited"
+    },
+    {
+      "id": "2-28-30",
+      "arabic": "ﻮﻠﹸﺘﻳ",
+      "english": "He recites"
+    },
+    {
+      "id": "2-28-31",
+      "arabic": "ﺎﺤ ﻣ",
+      "english": "He erased"
+    },
+    {
+      "id": "2-28-32",
+      "arabic": "ﻮﺤ ﻤ ﻳ",
+      "english": "He erases"
+    },
+    {
+      "id": "2-28-33",
+      "arabic": "ﺎﻔﹶﻋ",
+      "english": "He forgave"
+    },
+    {
+      "id": "2-28-34",
+      "arabic": "ﻮ ﻔﹸﻌﻳ",
+      "english": "He forgives"
+    },
+    {
+      "id": "2-28-35",
+      "arabic": "ﻡﹺﺭ ﺍ",
+      "english": "Throw"
+    },
+    {
+      "id": "2-28-36",
+      "arabic": "ﻡﹺﺮﺗ ﻻﹶ",
+      "english": "Don’t throw"
+    },
+    {
+      "id": "2-28-37",
+      "arabic": "ﺮﹺﺟ ﺍ",
+      "english": "Run"
+    },
+    {
+      "id": "2-28-38",
+      "arabic": "ﺮﹺﺠ ﺗ ﻻﹶ",
+      "english": "Don’t run"
+    },
+    {
+      "id": "2-28-39",
+      "arabic": "ﻞﹸ ﺗﺍﹸ",
+      "english": "Recite"
+    },
+    {
+      "id": "2-28-40",
+      "arabic": "ﺢ ﻣﺍﹸ",
+      "english": "Erase"
+    },
+    {
+      "id": "2-28-41",
+      "arabic": "ﻒ ﺧ",
+      "english": "Fear (command)"
+    },
+    {
+      "id": "2-28-42",
+      "arabic": "ﻕ ﺰﻤ ﻣ",
+      "english": "Torn"
+    },
+    {
+      "id": "2-28-43",
+      "arabic": "ﻡﻮ ﻗﹶ",
+      "english": "People"
+    },
+    {
+      "id": "2-28-44",
+      "arabic": "ﻲﻣﻮ ﻗﹶ",
+      "english": "My people"
+    },
+    {
+      "id": "2-28-45",
+      "arabic": "ﻞﹲ ﻫ ﺃﹶ",
+      "english": "People"
+    },
+    {
+      "id": "2-28-46",
+      "arabic": "ﺐ ﺣ ﺎﺻ",
+      "english": "Person/companion"
+    },
+    {
+      "id": "2-28-47",
+      "arabic": "ﺏ ﺎﺤ ﺻ ﺃ",
+      "english": "People/companions"
+    },
+    {
+      "id": "2-28-48",
+      "arabic": "ﻲ ﺸ ﺧ",
+      "english": "He feared"
+    },
+    {
+      "id": "2-28-49",
+      "arabic": "ﺀٌﺎﺸ ﻋ",
+      "english": "Supper"
+    },
+    {
+      "id": "2-28-50",
+      "arabic": "ﻦ ﻴﻤ ﻳ",
+      "english": "Right hand"
+    },
+    {
+      "id": "2-28-51",
+      "arabic": "ﺭﺎﺴ ﻳ",
+      "english": "Left hand"
+    },
+    {
+      "id": "2-28-52",
+      "arabic": "ﻖ ﻴﻘﺤ ﺗ",
+      "english": "Verification"
+    },
+    {
+      "id": "2-28-53",
+      "arabic": "ﻝﹲ ﻭ ﺎﻨﺗ",
+      "english": "Taking/eating"
+    },
+    {
+      "id": "2-28-54",
+      "arabic": "ﻪﻟﹶﺇﹺ",
+      "english": "God"
+    },
+    {
+      "id": "2-28-55",
+      "arabic": "ﺔﹲﻬ ﻟﺁ",
+      "english": "Gods"
+    },
+    {
+      "id": "2-28-56",
+      "arabic": "ﺔﹲﻣﺎﻤ ﻗﹸ",
+      "english": "Garbage"
+    },
+    {
+      "id": "2-28-57",
+      "arabic": "ﺭﺍﺩ",
+      "english": "Abode"
+    },
+    {
+      "id": "2-28-58",
+      "arabic": "ﻞﹲ ﻴﻟﹶ",
+      "english": "Night"
+    },
+    {
+      "id": "2-28-59",
+      "arabic": "ﺭﺎﻬ ﻧ",
+      "english": "Day"
+    },
+    {
+      "id": "2-28-60",
+      "arabic": "ﺏ ﺍﺮﺗ",
+      "english": "Dust"
+    },
+    {
+      "id": "2-28-61",
+      "arabic": "ﺔﹲﻳﺪ ﻫ",
+      "english": "Gift"
+    },
+    {
+      "id": "2-28-62",
+      "arabic": "ﻲﻧﹺﺭﺃﹶ",
+      "english": "Show me"
+    },
+    {
+      "id": "2-28-63",
+      "arabic": "ﻯﻮ ﻠﹾﺳ",
+      "english": "Salwah"
+    },
+    {
+      "id": "2-28-64",
+      "arabic": "ﻪ ﻠﹸ ﺻ ﺃﹶ",
+      "english": "Its origin"
+    },
+    {
+      "id": "2-28-65",
+      "arabic": "ﻲ ﺴِ ﻧ",
+      "english": "He forgot"
+    },
+    {
+      "id": "2-28-66",
+      "arabic": "ﻰﺴ ﻨﻳ",
+      "english": "He forgets"
+    },
+    {
+      "id": "2-28-67",
+      "arabic": "ﻰﺸ ﺨ ﻳ",
+      "english": "He fears"
+    },
+    {
+      "id": "2-28-68",
+      "arabic": "ﻲ ﻘﺑ",
+      "english": "He remained"
+    },
+    {
+      "id": "2-28-69",
+      "arabic": "ﻰﻘﹶﺒﻳ",
+      "english": "He remains"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "madinah-2-12",
+  "name": "Madinah Book 2 - Lesson 12",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-12-01",
+      "arabic": "ﺪ ﻬﹺ ﺷ",
+      "english": "He bore witness"
+    },
+    {
+      "id": "2-12-02",
+      "arabic": "ﺪ ﻬ ﺸ ﻳ",
+      "english": "He is bearing\nwitness"
+    },
+    {
+      "id": "2-12-03",
+      "arabic": "ﻚ ﺤ ﺿ",
+      "english": "He laughed"
+    },
+    {
+      "id": "2-12-04",
+      "arabic": "ﻚ ﺤ ﻀ ﻳ",
+      "english": "He is laughing"
+    },
+    {
+      "id": "2-12-05",
+      "arabic": "ﺪ ﻬ ﺷ ﺃﹶ",
+      "english": "I witness"
+    },
+    {
+      "id": "2-12-06",
+      "arabic": "ﻥﹸ ﻮ ﻜﹸ ﻴﺳ",
+      "english": "Will be"
+    },
+    {
+      "id": "2-12-07",
+      "arabic": "ﺚﹲ ﺤ ﺑ",
+      "english": "Search"
+    },
+    {
+      "id": "2-12-08",
+      "arabic": "ﻢ ﻗﹶﺭ",
+      "english": "Number"
+    },
+    {
+      "id": "2-12-09",
+      "arabic": "ﻡﺎﻗﹶﺭ ﺃﹶ",
+      "english": "Numbers"
+    },
+    {
+      "id": "2-12-10",
+      "arabic": "ﺖ ﻗﹾﻭ",
+      "english": "Time"
+    },
+    {
+      "id": "2-12-11",
+      "arabic": "ﺕ ﺎﻗﹶﻭ ﺃﹶ",
+      "english": "Time (pl)"
+    },
+    {
+      "id": "2-12-12",
+      "arabic": "ﺀٌﺍﻭ ﺩ",
+      "english": "Medicine"
+    },
+    {
+      "id": "2-12-13",
+      "arabic": "ﺔﹲﻳﻭﹺ ﺩﺃﹶ",
+      "english": "Medicines"
+    },
+    {
+      "id": "2-12-14",
+      "arabic": "ﺬﹲ ﻴﻤ ﻠﹾﺗ",
+      "english": "Pupil"
+    },
+    {
+      "id": "2-12-15",
+      "arabic": "ﺓﹲﺬﹶ ﻣﻼﺗ",
+      "english": "Pupils"
+    },
+    {
+      "id": "2-12-16",
+      "arabic": "ﺓﹲﺬﹶ ﻴﻤ ﻠﹾﺗ",
+      "english": "Pupil (f)"
+    },
+    {
+      "id": "2-12-17",
+      "arabic": "ﺕ ﺍﺬﹶ ﻴﻤ ﻠﹾﺗ",
+      "english": "Pupil (f,pl)"
+    },
+    {
+      "id": "2-12-18",
+      "arabic": "ﻡﺩﺎﻘﹶﻟﹾﺍ ﻉ ﻮ ﺒﺳ ﻷَ ﺍ",
+      "english": "Next week"
+    },
+    {
+      "id": "2-12-19",
+      "arabic": "ﺔﹲﻔﹶﻴﺤ ﺻ",
+      "english": "Newspaper"
+    },
+    {
+      "id": "2-12-20",
+      "arabic": "ﺪ ﺣ ﻷَ ﺍ ﻡﻮ ﻳ",
+      "english": "Sunday"
+    },
+    {
+      "id": "2-12-21",
+      "arabic": "ﻦﹺ ﻴﻨﺛﹾﻹِ ﺍ ﻡﻮ ﻳ",
+      "english": "Monday"
+    },
+    {
+      "id": "2-12-22",
+      "arabic": "ﺀِﺎﺛﹶﻼﺜﱡﻟﺍ ﻡﻮ ﻳ",
+      "english": "Tuesday"
+    },
+    {
+      "id": "2-12-23",
+      "arabic": "ﺀِﺎﻌﺑﹺﺭ ﻷَ ﺍ ﻡﻮ ﻳ",
+      "english": "Wednesday"
+    },
+    {
+      "id": "2-12-24",
+      "arabic": "ﺲﹺ ﻴﻤ ﺨ ﻟﹾﺍ ﻡﻮ ﻳ",
+      "english": "Thursday"
+    },
+    {
+      "id": "2-12-25",
+      "arabic": "ﺔﻌﻤ ﺠ ﻟﹾﺍ ﻡﻮ ﻳ",
+      "english": "Friday"
+    },
+    {
+      "id": "2-12-26",
+      "arabic": "ﺖ ﺒﺴ ﻟﺍ ﻡﻮ ﻳ",
+      "english": "Saturday"
+    },
+    {
+      "id": "2-12-27",
+      "arabic": "ﺔﻴﺟﹺ ﺭﹺﺎﺨ ﻟﹾﺍ ﺮﻳﺯﹺﻭ",
+      "english": "Foreign minister"
+    },
+    {
+      "id": "2-12-28",
+      "arabic": "ﺕ ﺎﺒﺟﹺ ﺍﻭ",
+      "english": "Homework"
+    },
+    {
+      "id": "2-12-29",
+      "arabic": "ﺭﺎﺟ",
+      "english": "Neighbour"
+    },
+    {
+      "id": "2-12-30",
+      "arabic": "ﻥﹲ ﺍﺮﻴﺟﹺ",
+      "english": "Neighbours"
+    },
+    {
+      "id": "2-12-31",
+      "arabic": "ﻞﹲ ﻤ ﻋ",
+      "english": "Work"
+    },
+    {
+      "id": "2-12-32",
+      "arabic": "ﻝﹲ ﺎﻤ ﻋ ﺃﹶ",
+      "english": "Work (pl)"
+    },
+    {
+      "id": "2-12-33",
+      "arabic": "ﻒ ﺗﺎﻫ",
+      "english": "Telephone"
+    },
+    {
+      "id": "2-12-34",
+      "arabic": "ﻒ ﺗﺍﻮ ﻫ",
+      "english": "Telephones"
+    },
+    {
+      "id": "2-12-35",
+      "arabic": "ﻲ ﺗﻼﱠ ﻟﺍ",
+      "english": "Who (f,pl)"
+    },
+    {
+      "id": "2-12-36",
+      "arabic": "ﻉ ﺭﹺﺍﻮ ﺷ",
+      "english": "Streets"
+    },
+    {
+      "id": "2-12-37",
+      "arabic": "ﻒ ﺋﺎﻄﱠ ﻟﺍ",
+      "english": "Taif"
+    }
+  ]
+}

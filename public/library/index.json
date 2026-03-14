@@ -7,6 +7,14 @@
       "chapters": 23,
       "totalCards": 650,
       "source": "Madinah Islamic University"
+    },
+    {
+      "id": "madinah-book-2",
+      "name": "Madinah Arabic - Book 2",
+      "description": "Intermediate vocabulary from the famous Madinah Arabic Course",
+      "chapters": 31,
+      "totalCards": 1539,
+      "source": "Madinah Islamic University"
     }
   ]
 }

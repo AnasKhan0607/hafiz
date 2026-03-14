@@ -1,0 +1,467 @@
+{
+  "id": "madinah-2-27",
+  "name": "Madinah Book 2 - Lesson 27",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-27-01",
+      "arabic": "ﺐ ﻠﹶﻏﹶ",
+      "english": "He overcame"
+    },
+    {
+      "id": "2-27-02",
+      "arabic": "ﺐ ﻠﻐﻳ",
+      "english": "He overcomes"
+    },
+    {
+      "id": "2-27-03",
+      "arabic": "ﺏ ﺬﹶ ﻛﹶ",
+      "english": "He lied"
+    },
+    {
+      "id": "2-27-04",
+      "arabic": "ﺏ ﺬ ﻜﹾ ﻳ",
+      "english": "He lies"
+    },
+    {
+      "id": "2-27-05",
+      "arabic": "ﻝﹶ ﺎﻗﹶ",
+      "english": "He said"
+    },
+    {
+      "id": "2-27-06",
+      "arabic": "ﻝﹸ ﻮ ﻘﹸﻳ",
+      "english": "He says"
+    },
+    {
+      "id": "2-27-07",
+      "arabic": "ﻥﹶ ﺎﻛﹶ",
+      "english": "He was"
+    },
+    {
+      "id": "2-27-08",
+      "arabic": "ﻥﹸ ﻮ ﻜﹸ ﻳ",
+      "english": "He is"
+    },
+    {
+      "id": "2-27-09",
+      "arabic": "ﺭﺍﺯ",
+      "english": "He visited"
+    },
+    {
+      "id": "2-27-10",
+      "arabic": "ﺭﻭ ﺰﻳ",
+      "english": "He visits"
+    },
+    {
+      "id": "2-27-11",
+      "arabic": "ﻡﺎﻗﹶ",
+      "english": "He stood"
+    },
+    {
+      "id": "2-27-12",
+      "arabic": "ﻡﻮ ﻘﹸﻳ",
+      "english": "He stands"
+    },
+    {
+      "id": "2-27-13",
+      "arabic": "ﻕ ﺍﺫﹶ",
+      "english": "He tasted"
+    },
+    {
+      "id": "2-27-14",
+      "arabic": "ﻕ ﻭ ﺬﹸ ﻳ",
+      "english": "He tastes"
+    },
+    {
+      "id": "2-27-15",
+      "arabic": "ﻑ ﺎﻃﹶ",
+      "english": "He circumbulated"
+    },
+    {
+      "id": "2-27-16",
+      "arabic": "ﻑ ﻮ ﻄﹸ ﻳ",
+      "english": "He circumbulates"
+    },
+    {
+      "id": "2-27-17",
+      "arabic": "ﻡﺎﺻ",
+      "english": "He fasted"
+    },
+    {
+      "id": "2-27-18",
+      "arabic": "ﻡﻮ ﺼ ﻳ",
+      "english": "He fasts"
+    },
+    {
+      "id": "2-27-19",
+      "arabic": "ﺭﺍﺩ",
+      "english": "He turned"
+    },
+    {
+      "id": "2-27-20",
+      "arabic": "ﺭﻭ ﺪ ﻳ",
+      "english": "He turns"
+    },
+    {
+      "id": "2-27-21",
+      "arabic": "ﺏ ﺎﺗ",
+      "english": "He repented"
+    },
+    {
+      "id": "2-27-22",
+      "arabic": "ﺏ ﻮ ﺘﻳ",
+      "english": "He repents"
+    },
+    {
+      "id": "2-27-23",
+      "arabic": "ﻝﹶ ﺎﺑ",
+      "english": "He urinated"
+    },
+    {
+      "id": "2-27-24",
+      "arabic": "ﻝﹸ ﻮ ﺒﻳ",
+      "english": "He urinates"
+    },
+    {
+      "id": "2-27-25",
+      "arabic": "ﺀَﺎﺟ",
+      "english": "He came"
+    },
+    {
+      "id": "2-27-26",
+      "arabic": "ﺀُﻲﺠﹺ ﻳ",
+      "english": "He comes"
+    },
+    {
+      "id": "2-27-27",
+      "arabic": "ﻉ ﺎﺑ",
+      "english": "He sold"
+    },
+    {
+      "id": "2-27-28",
+      "arabic": "ﻊ ﻴﺒﹺﻳ",
+      "english": "He sells"
+    },
+    {
+      "id": "2-27-29",
+      "arabic": "ﺭﺎﺳ",
+      "english": "He travelled"
+    },
+    {
+      "id": "2-27-30",
+      "arabic": "ﺮﻴﺴِ ﻳ",
+      "english": "He travels"
+    },
+    {
+      "id": "2-27-31",
+      "arabic": "ﺵ ﺎﻋ",
+      "english": "He lived"
+    },
+    {
+      "id": "2-27-32",
+      "arabic": "ﺶ ﻴﻌﻳ",
+      "english": "He lives"
+    },
+    {
+      "id": "2-27-33",
+      "arabic": "ﻝﹶ ﺎﻛﹶ",
+      "english": "He measured"
+    },
+    {
+      "id": "2-27-34",
+      "arabic": "ﻞﹸ ﻴﻜ ﻳ",
+      "english": "He measures"
+    },
+    {
+      "id": "2-27-35",
+      "arabic": "ﻡﺎﻧ",
+      "english": "He slept"
+    },
+    {
+      "id": "2-27-36",
+      "arabic": "ﻡﺎﻨﻳ",
+      "english": "He sleeps"
+    },
+    {
+      "id": "2-27-37",
+      "arabic": "ﻑ ﺎﺧ",
+      "english": "He feared"
+    },
+    {
+      "id": "2-27-38",
+      "arabic": "ﻑ ﺎﺨ ﻳ",
+      "english": "He fears"
+    },
+    {
+      "id": "2-27-39",
+      "arabic": "ﺕ ﺎﻣ",
+      "english": "He died"
+    },
+    {
+      "id": "2-27-40",
+      "arabic": "ﺕ ﻮ ﻤ ﻳ",
+      "english": "He dies"
+    },
+    {
+      "id": "2-27-41",
+      "arabic": "ﻝﹶ ﺍﺯ ﺎﻣ",
+      "english": "He did not cease"
+    },
+    {
+      "id": "2-27-42",
+      "arabic": "ﻝﹸ ﺍﺰﻳ ﻻ",
+      "english": "He does not cease"
+    },
+    {
+      "id": "2-27-43",
+      "arabic": "ﺖ ﻨﻨﻇﹶ",
+      "english": "I thought"
+    },
+    {
+      "id": "2-27-44",
+      "arabic": "ﻊ ﺑﹺ",
+      "english": "Sell"
+    },
+    {
+      "id": "2-27-45",
+      "arabic": "ﺀُﺎﺸ ﺗ",
+      "english": "You wish"
+    },
+    {
+      "id": "2-27-46",
+      "arabic": "ﻞﹲ ﻣﺎﻛﹶ",
+      "english": "Complete"
+    },
+    {
+      "id": "2-27-47",
+      "arabic": "ﺩﺎﻛﹶ",
+      "english": "He was about"
+    },
+    {
+      "id": "2-27-48",
+      "arabic": "ﺩﺎﻜﹶ ﻳ",
+      "english": "He is about"
+    },
+    {
+      "id": "2-27-49",
+      "arabic": "ﺪ ﺑﺯ",
+      "english": "Butter"
+    },
+    {
+      "id": "2-27-50",
+      "arabic": "ﺖ ﻳﺯ",
+      "english": "Oil"
+    },
+    {
+      "id": "2-27-51",
+      "arabic": "ﺔﹲﻨﺒﺟ",
+      "english": "Cheese"
+    },
+    {
+      "id": "2-27-52",
+      "arabic": "ﻦ ﺒﺟ",
+      "english": "Cheese (pl)"
+    },
+    {
+      "id": "2-27-53",
+      "arabic": "ﻖ ﻴﻗﺩ",
+      "english": "Flour"
+    },
+    {
+      "id": "2-27-54",
+      "arabic": "ﺱ ﺪ ﻋ",
+      "english": "Lentil"
+    },
+    {
+      "id": "2-27-55",
+      "arabic": "ﻝﹲ ﺎﻘﱠﺑ",
+      "english": "Grocer"
+    },
+    {
+      "id": "2-27-56",
+      "arabic": "ﻲ ﻧﹺﺎﻬ ﻛ ﺎﻓﹶ",
+      "english": "Fruit seller"
+    },
+    {
+      "id": "2-27-57",
+      "arabic": "ﺔﹲﻀ ﻴﺑ",
+      "english": "Egg"
+    },
+    {
+      "id": "2-27-58",
+      "arabic": "ﺾ ﻴﺑ",
+      "english": "Eggs"
+    },
+    {
+      "id": "2-27-59",
+      "arabic": "ﺔﹲﺑﺎﻏﹶ",
+      "english": "Forest"
+    },
+    {
+      "id": "2-27-60",
+      "arabic": "ﺭﺎﺨ ﺑ",
+      "english": "Steam"
+    },
+    {
+      "id": "2-27-61",
+      "arabic": "ﺭﺎﻄﹶ ﻗ",
+      "english": "Train"
+    },
+    {
+      "id": "2-27-62",
+      "arabic": "ﺀٌﺍﺪ ﻏﹶ",
+      "english": "Lunch"
+    },
+    {
+      "id": "2-27-63",
+      "arabic": "ﻒ ﺼ ﺘﻨﻣ",
+      "english": "Middle/half/mid"
+    },
+    {
+      "id": "2-27-64",
+      "arabic": "ﻲﻐﺒﻨﻳ",
+      "english": "Is befitting"
+    },
+    {
+      "id": "2-27-65",
+      "arabic": "ﺢ ﻠﹾﻣ",
+      "english": "Salt"
+    },
+    {
+      "id": "2-27-66",
+      "arabic": "ﻉ ﺍﺪ ﺻ",
+      "english": "Headache"
+    },
+    {
+      "id": "2-27-67",
+      "arabic": "ﺓﺪ ﻌﻘﹶﻟﹾﺍ ﻭ ﺫﹸ",
+      "english": "Dhul Qada"
+    },
+    {
+      "id": "2-27-68",
+      "arabic": "ﻝﹲ ﻮ ﻐﺸ ﻣ",
+      "english": "Busy"
+    },
+    {
+      "id": "2-27-69",
+      "arabic": "ﺪ ﺳ ﺍﹶ",
+      "english": "Lion"
+    },
+    {
+      "id": "2-27-70",
+      "arabic": "ﻒ ﻃﹸ",
+      "english": "Circumbulate!"
+    },
+    {
+      "id": "2-27-71",
+      "arabic": "ﻞﹾ ﻗﹸ",
+      "english": "Say!"
+    },
+    {
+      "id": "2-27-72",
+      "arabic": "ﻒ ﺧ",
+      "english": "Fear!"
+    },
+    {
+      "id": "2-27-73",
+      "arabic": "ﺐ ﺗ",
+      "english": "Repent!"
+    },
+    {
+      "id": "2-27-74",
+      "arabic": "ﺭ ﺯ",
+      "english": "Visit!"
+    },
+    {
+      "id": "2-27-75",
+      "arabic": "ﺪ ﻋ",
+      "english": "Return!"
+    },
+    {
+      "id": "2-27-76",
+      "arabic": "ﻢ ﻗﹸ",
+      "english": "Stand/stop!"
+    },
+    {
+      "id": "2-27-77",
+      "arabic": "ﻢ ﺻ",
+      "english": "Fast!"
+    },
+    {
+      "id": "2-27-78",
+      "arabic": "ﻕ ﺫﹸ",
+      "english": "Taste!"
+    },
+    {
+      "id": "2-27-79",
+      "arabic": "ﺱ ﺭﺪ ﻳ ﻝﹸ ﺍﺰﻳ ﻻ",
+      "english": "He is still studying"
+    },
+    {
+      "id": "2-27-80",
+      "arabic": "ﻞﹺ ﻴﻠﱠﻟﺍ ﻒ ﺼ ﺘﻨﻣ",
+      "english": "Middle of the night"
+    },
+    {
+      "id": "2-27-81",
+      "arabic": "ﺭﻮ ﺒﻗﹸ",
+      "english": "Graves"
+    },
+    {
+      "id": "2-27-82",
+      "arabic": "ﻥ ﺎﻨﻛ ﺎﺳ ﻲﻘﺘﻠﹾﻳ ﻻ",
+      "english": "Two sukoons don’t\nmeet"
+    },
+    {
+      "id": "2-27-83",
+      "arabic": "ﻪﻠﱠﻟﺍﻭ",
+      "english": "By Allah..."
+    },
+    {
+      "id": "2-27-84",
+      "arabic": "ﻡﻼﹶ ﻛﹶ",
+      "english": "Speech"
+    },
+    {
+      "id": "2-27-85",
+      "arabic": "ﺓﺪ ﻤ ﻟ",
+      "english": "Period"
+    },
+    {
+      "id": "2-27-86",
+      "arabic": "ﺮﻴﻔﺳ",
+      "english": "ambassador"
+    },
+    {
+      "id": "2-27-87",
+      "arabic": "ﻡﺩﺁ",
+      "english": "Adam"
+    },
+    {
+      "id": "2-27-88",
+      "arabic": "ﺚﹸ ﻴﺣ",
+      "english": "Where/wherever"
+    },
+    {
+      "id": "2-27-89",
+      "arabic": "ﺓﺪ ﻌﻘﹶﻟﹾﺍ ﻭ ﺫﹸ",
+      "english": "Dhul-Qadah"
+    },
+    {
+      "id": "2-27-90",
+      "arabic": "ﻥﹸ ﺎﻧﺪ ﻋ",
+      "english": "Adnaan"
+    },
+    {
+      "id": "2-27-91",
+      "arabic": "ﺭﺎﺨ ﺑ",
+      "english": "Fever"
+    },
+    {
+      "id": "2-27-92",
+      "arabic": "ﺀٌﺎﻔﹶﺷ",
+      "english": "Cure"
+    }
+  ]
+}

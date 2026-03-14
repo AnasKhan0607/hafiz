@@ -1,0 +1,197 @@
+{
+  "id": "madinah-2-05",
+  "name": "Madinah Book 2 - Lesson 5",
+  "source": "Madinah Arabic Course",
+  "cards": [
+    {
+      "id": "2-05-01",
+      "arabic": "ﺮﺴ ﻛﹶ",
+      "english": "He broke"
+    },
+    {
+      "id": "2-05-02",
+      "arabic": "ﻊ ﻤ ﺳ",
+      "english": "He heard"
+    },
+    {
+      "id": "2-05-03",
+      "arabic": "ﻢ ﻬﹺ ﻓﹶ",
+      "english": "He understood"
+    },
+    {
+      "id": "2-05-04",
+      "arabic": "ﺏ ﺮﹺﺷ",
+      "english": "He drank"
+    },
+    {
+      "id": "2-05-05",
+      "arabic": "ﻆﹶ ﻔﺣ",
+      "english": "He memorised"
+    },
+    {
+      "id": "2-05-06",
+      "arabic": "ﺏ ﺮﺿ",
+      "english": "He hit/beat"
+    },
+    {
+      "id": "2-05-07",
+      "arabic": "ﻞﹶ ﺧ ﺩ",
+      "english": "He entered"
+    },
+    {
+      "id": "2-05-08",
+      "arabic": "ﻞﹶ ﻛﹶ ﺃﹶ",
+      "english": "He ate"
+    },
+    {
+      "id": "2-05-09",
+      "arabic": "ﻞﹶ ﺴ ﻏﹶ",
+      "english": "He washed"
+    },
+    {
+      "id": "2-05-10",
+      "arabic": "ﻞﹶ ﺘﻗﹶ",
+      "english": "He killed"
+    },
+    {
+      "id": "2-05-11",
+      "arabic": "ﺢ ﺘﻓﹶ",
+      "english": "He opened"
+    },
+    {
+      "id": "2-05-12",
+      "arabic": "ﻊ ﺟ ﺭ",
+      "english": "He returned"
+    },
+    {
+      "id": "2-05-13",
+      "arabic": "ﺐ ﺘﻛﹶ",
+      "english": "He wrote"
+    },
+    {
+      "id": "2-05-14",
+      "arabic": "ﺃﹶﺮﻗﹶ",
+      "english": "He read"
+    },
+    {
+      "id": "2-05-15",
+      "arabic": "ﺰﺒﺧ",
+      "english": "Bread"
+    },
+    {
+      "id": "2-05-16",
+      "arabic": "ﺍﺪ ﻴﺟ",
+      "english": "Well"
+    },
+    {
+      "id": "2-05-17",
+      "arabic": "ﺯﻮ ﻣ",
+      "english": "Bananas"
+    },
+    {
+      "id": "2-05-18",
+      "arabic": "ﺐ ﻨﻋ",
+      "english": "Grapes"
+    },
+    {
+      "id": "2-05-19",
+      "arabic": "ﻦ ﻴﺗ",
+      "english": "Fig"
+    },
+    {
+      "id": "2-05-20",
+      "arabic": "ﺏ ﺍﻮ ﺟ",
+      "english": "Answer"
+    },
+    {
+      "id": "2-05-21",
+      "arabic": "ﺔﹲﺑﻮﹺ ﺟ ﺃﹶ",
+      "english": "Answers"
+    },
+    {
+      "id": "2-05-22",
+      "arabic": "ﻝﹲ ﺍﺆ ﺳ",
+      "english": "Question"
+    },
+    {
+      "id": "2-05-23",
+      "arabic": "ﺔﹲﻠﹶﺌﺳ ﺃﹶ",
+      "english": "Questions"
+    },
+    {
+      "id": "2-05-24",
+      "arabic": "ﺔﹲﻴﺣ",
+      "english": "Snake"
+    },
+    {
+      "id": "2-05-25",
+      "arabic": "ﺕ ﺎﻴﺣ",
+      "english": "Snakes"
+    },
+    {
+      "id": "2-05-26",
+      "arabic": "ﻝﹲ ﺎﻘﱠﺑ",
+      "english": "Grocer"
+    },
+    {
+      "id": "2-05-27",
+      "arabic": "ﺎﺼ ﻋ",
+      "english": "Stick"
+    },
+    {
+      "id": "2-05-28",
+      "arabic": "ﺓﹲﻮ ﻬ ﻗﹶ",
+      "english": "Coffee"
+    },
+    {
+      "id": "2-05-29",
+      "arabic": "ﻥﹲ ﺎﻛﱠ ﺩ",
+      "english": "Shop"
+    },
+    {
+      "id": "2-05-30",
+      "arabic": "ﻦ ﻴﻛ ﺎﻛﹶ ﺩ",
+      "english": "Shops"
+    },
+    {
+      "id": "2-05-31",
+      "arabic": "ﺓﹲﺭﻮ ﺒﺳ",
+      "english": "Writing board"
+    },
+    {
+      "id": "2-05-32",
+      "arabic": "ﺮﺠ ﻓﹶ",
+      "english": "Dawn"
+    },
+    {
+      "id": "2-05-33",
+      "arabic": "ﺓﹲﺮﻳﺪ ﻣ",
+      "english": "Headmistress"
+    },
+    {
+      "id": "2-05-34",
+      "arabic": "ﻞﹲ ﺼ ﻴﻓﹶ",
+      "english": "Faisal"
+    },
+    {
+      "id": "2-05-35",
+      "arabic": "ﻦﹺ ﻴﻨﻛ ﺎﺴ ﻟﺍ ﺀُﺎﻘﹶﺘﻟﹾﺇﹺ",
+      "english": "The meeting of\nthe two sukoons"
+    },
+    {
+      "id": "2-05-36",
+      "arabic": "ﻞﹲ ﻌﻓ",
+      "english": "A verb"
+    },
+    {
+      "id": "2-05-37",
+      "arabic": "ﻞﹲ ﻋ ﺎﻓﹶ",
+      "english": "Subject\n(Verb doer)"
+    },
+    {
+      "id": "2-05-38",
+      "arabic": "ﻪﺑﹺ ﻝﹲ ﻮ ﻌﻔﹾﻣ",
+      "english": "Object"
+    }
+  ]
+}
