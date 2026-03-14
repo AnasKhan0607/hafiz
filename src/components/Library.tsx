@@ -34,7 +34,8 @@ export default function Library({ onAddDeck, onBack, existingDeckIds }: LibraryP
   const [message, setMessage] = useState<string | null>(null)
 
   useEffect(() => {
-    fetch('/library/index.json')
+    const basePath = process.env.NODE_ENV === 'production' ? '/hafiz' : ''
+    fetch(`${basePath}/library/index.json`)
       .then(res => res.json())
       .then(data => {
         setBooks(data.books)
@@ -51,12 +52,13 @@ export default function Library({ onAddDeck, onBack, existingDeckIds }: LibraryP
     const book = books.find(b => b.id === bookId)
     if (!book) return
 
+    const basePath = process.env.NODE_ENV === 'production' ? '/hafiz' : ''
     const loadedChapters: ChapterData[] = []
     
     for (let i = 1; i <= book.chapters; i++) {
       const chapterNum = i.toString().padStart(2, '0')
       try {
-        const res = await fetch(`/library/${bookId}/chapter-${chapterNum}.json`)
+        const res = await fetch(`${basePath}/library/${bookId}/chapter-${chapterNum}.json`)
         if (res.ok) {
           const data = await res.json()
           loadedChapters.push(data)
