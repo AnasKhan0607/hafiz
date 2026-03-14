@@ -176,15 +176,15 @@ export default function Home() {
               </button>
               
               {decks.length > 0 && (
-                <button
-                  onClick={() => { setCurrentDeck(decks[0]); setView('deck'); }}
+                <a
+                  href="#my-decks"
                   className="bg-emerald-100 hover:bg-emerald-200 text-emerald-800 font-semibold py-5 px-6 rounded-lg transition-all flex items-center justify-center gap-3"
                 >
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                   </svg>
                   My Decks ({decks.length})
-                </button>
+                </a>
               )}
             </div>
 
@@ -231,6 +231,7 @@ export default function Home() {
 
             {/* Deck List Preview */}
             {decks.length > 0 && (
+              <div id="my-decks">
               <DeckList 
                 decks={decks} 
                 onSelect={(deck) => { setCurrentDeck(deck); setView('deck'); }}
@@ -238,6 +239,7 @@ export default function Home() {
                 onStartQuiz={handleStartQuiz}
                 onExport={handleExportDeck}
               />
+              </div>
             )}
 
             {/* Empty State */}
