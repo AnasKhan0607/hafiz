@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useRef } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import Header from '@/components/Header'
 import ImageUpload from '@/components/ImageUpload'
 import FlashcardDeck from '@/components/FlashcardDeck'
@@ -12,17 +12,21 @@ type View = 'home' | 'upload' | 'deck' | 'quiz'
 
 export default function Home() {
   const [view, setView] = useState<View>('home')
-  const [decks, setDecks] = useState<Deck[]>(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('hafiz-decks')
-      return saved ? JSON.parse(saved) : []
-    }
-    return []
-  })
+  const [decks, setDecks] = useState<Deck[]>([])
+  const [isLoaded, setIsLoaded] = useState(false)
   const [currentDeck, setCurrentDeck] = useState<Deck | null>(null)
   const [quizDirection, setQuizDirection] = useState<'en-ar' | 'ar-en'>('en-ar')
   const [importMessage, setImportMessage] = useState<string | null>(null)
   const importInputRef = useRef<HTMLInputElement>(null)
+
+  // Load decks from localStorage on mount (client-side only)
+  useEffect(() => {
+    const saved = localStorage.getItem('hafiz-decks')
+    if (saved) {
+      setDecks(JSON.parse(saved))
+    }
+    setIsLoaded(true)
+  }, [])
 
   const saveDecks = (newDecks: Deck[]) => {
     setDecks(newDecks)
