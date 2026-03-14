@@ -57,14 +57,27 @@ export default function ImageUpload({ onCardsExtracted, onBack }: ImageUploadPro
               content: [
                 {
                   type: 'text',
-                  text: `Extract all Arabic vocabulary words and their English translations from this image. 
-                  
-Return the data as a JSON array with objects containing "arabic" and "english" fields.
-Only return the JSON array, no other text. Example format:
-[{"arabic": "كتاب", "english": "book"}, {"arabic": "قلم", "english": "pen"}]
+                  text: `You are an expert Arabic language teacher. Extract ALL Arabic vocabulary words and their English translations from this image.
 
-If there are notes like masculine/feminine forms, include them in the arabic field separated by " - ".
-Extract ALL vocabulary pairs you can see.`
+CRITICAL: Include ALL harakats/tashkeel (diacritical marks) on the Arabic text exactly as shown:
+- Fatha (فَتْحَة) - the small line above: َ
+- Kasra (كَسْرَة) - the small line below: ِ
+- Damma (ضَمَّة) - the small و above: ُ
+- Sukun (سُكُون) - the small circle: ْ
+- Shadda (شَدَّة) - the small ّ for doubling
+- Tanween (تَنْوِين) - ً ٍ ٌ
+
+Return the data as a JSON array with objects containing "arabic" and "english" fields.
+Only return the JSON array, no other text.
+
+Example format with proper harakats:
+[{"arabic": "كِتَابٌ", "english": "book"}, {"arabic": "قَلَمٌ", "english": "pen"}]
+
+If there are masculine/feminine forms shown (like أَصْفَرُ - صَفْرَاءُ), include BOTH forms in the arabic field separated by " - ".
+
+If there are singular/plural forms, include them the same way.
+
+Extract EVERY vocabulary pair you can see. Be thorough and precise with the harakats.`
                 },
                 {
                   type: 'image_url',
