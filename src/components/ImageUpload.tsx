@@ -3,6 +3,9 @@
 import { useState, useRef } from 'react'
 import { FlashCard } from '@/types'
 
+// Netlify Functions API URL - update this after deploying hafiz-api to Netlify
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://hafiz-api.netlify.app'
+
 interface ImageUploadProps {
   onCardsExtracted: (cards: FlashCard[], lessonName: string) => void
   onBack: () => void
@@ -13,12 +16,17 @@ export default function ImageUpload({ onCardsExtracted, onBack }: ImageUploadPro
   const [lessonName, setLessonName] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
-  const [apiKey, setApiKey] = useState('')
   const fileInputRef = useRef<HTMLInputElement>(null)
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0]
     if (file) {
+      // Check file size (max 10MB for base64 encoding)
+      if (file.size > 10 * 1024 * 1024) {
+        setError('Image too large. Please use an image under 10MB.')
+        return
+      }
+      
       const reader = new FileReader()
       reader.onloadend = () => {
         setImage(reader.result as string)
@@ -34,87 +42,34 @@ export default function ImageUpload({ onCardsExtracted, onBack }: ImageUploadPro
       return
     }
 
-    if (!apiKey.trim()) {
-      setError('Please enter your OpenAI API key')
-      return
-    }
-
     setLoading(true)
     setError(null)
 
     try {
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
+      const response = await fetch(`${API_URL}/.netlify/functions/extract`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${apiKey}`,
         },
-        body: JSON.stringify({
-          model: 'gpt-4o',
-          messages: [
-            {
-              role: 'user',
-              content: [
-                {
-                  type: 'text',
-                  text: `You are an expert Arabic language teacher. Extract ALL Arabic vocabulary words and their English translations from this image.
-
-CRITICAL: Include ALL harakats/tashkeel (diacritical marks) on the Arabic text exactly as shown:
-- Fatha (فَتْحَة) - the small line above: َ
-- Kasra (كَسْرَة) - the small line below: ِ
-- Damma (ضَمَّة) - the small و above: ُ
-- Sukun (سُكُون) - the small circle: ْ
-- Shadda (شَدَّة) - the small ّ for doubling
-- Tanween (تَنْوِين) - ً ٍ ٌ
-
-Return the data as a JSON array with objects containing "arabic" and "english" fields.
-Only return the JSON array, no other text.
-
-Example format with proper harakats:
-[{"arabic": "كِتَابٌ", "english": "book"}, {"arabic": "قَلَمٌ", "english": "pen"}]
-
-If there are masculine/feminine forms shown (like أَصْفَرُ - صَفْرَاءُ), include BOTH forms in the arabic field separated by " - ".
-
-If there are singular/plural forms, include them the same way.
-
-Extract EVERY vocabulary pair you can see. Be thorough and precise with the harakats.`
-                },
-                {
-                  type: 'image_url',
-                  image_url: {
-                    url: image
-                  }
-                }
-              ]
-            }
-          ],
-          max_tokens: 4096
-        })
+        body: JSON.stringify({ image }),
       })
 
       if (!response.ok) {
-        throw new Error('Failed to process image')
+        const errorData = await response.json().catch(() => ({}))
+        throw new Error(errorData.error || 'Failed to process image')
       }
 
       const data = await response.json()
-      const content = data.choices[0].message.content
-
-      // Parse the JSON response
-      const jsonMatch = content.match(/\[[\s\S]*\]/)
-      if (!jsonMatch) {
-        throw new Error('Could not parse vocabulary from image')
+      
+      if (!data.vocabulary || data.vocabulary.length === 0) {
+        throw new Error('No vocabulary found in image')
       }
 
-      const vocabulary = JSON.parse(jsonMatch[0])
-      const cards: FlashCard[] = vocabulary.map((item: { arabic: string; english: string }, index: number) => ({
+      const cards: FlashCard[] = data.vocabulary.map((item: { arabic: string; english: string }, index: number) => ({
         id: `${Date.now()}-${index}`,
         arabic: item.arabic,
         english: item.english,
       }))
-
-      if (cards.length === 0) {
-        throw new Error('No vocabulary found in image')
-      }
 
       onCardsExtracted(cards, lessonName)
     } catch (err) {
@@ -140,23 +95,6 @@ Extract EVERY vocabulary pair you can see. Be thorough and precise with the hara
         <h2 className="text-2xl font-bold text-emerald-800 mb-6 text-center">
           Upload Vocabulary Screenshot
         </h2>
-
-        {/* API Key Input */}
-        <div className="mb-6">
-          <label className="block text-sm font-medium text-gray-700 mb-2">
-            OpenAI API Key
-          </label>
-          <input
-            type="password"
-            value={apiKey}
-            onChange={(e) => setApiKey(e.target.value)}
-            placeholder="sk-..."
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
-          />
-          <p className="text-xs text-gray-500 mt-1">
-            Your API key is only used locally and never stored
-          </p>
-        </div>
 
         {/* Lesson Name */}
         <div className="mb-6">
@@ -215,7 +153,7 @@ Extract EVERY vocabulary pair you can see. Be thorough and precise with the hara
 
         <button
           onClick={extractVocabulary}
-          disabled={loading || !image}
+          disabled={loading || !image || !lessonName.trim()}
           className="w-full btn-islamic disabled:opacity-50 disabled:cursor-not-allowed"
         >
           {loading ? (
